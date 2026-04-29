@@ -3,7 +3,8 @@ import { IdealistaData, BbvaData } from "../types";
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
 
-const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-pro";
+const model = genAI.getGenerativeModel({ model: GEMINI_MODEL });
 
 const IDEALISTA_PROMPT = `Analiza este HTML de la herramienta de valoración de Idealista y extrae los datos de valoración del inmueble.
 
