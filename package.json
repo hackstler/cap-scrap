@@ -1,0 +1,22 @@
+{
+  "name": "cap-scrap",
+  "version": "1.0.0",
+  "description": "Automated property valuation scraper - Idealista + BBVA Valora",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "tsx src/server.ts"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "@hono/node-server": "^1.13.0",
+    "googleapis": "^148.0.0",
+    "hono": "^4.7.0",
+    "playwright": "^1.50.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
