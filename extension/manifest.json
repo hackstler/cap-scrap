@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "Cap Valoraciones",
+  "version": "1.1",
+  "description": "Obtiene valoraciones de Idealista y las escribe en Google Sheets",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAut7qUrFmEtmy1fGrsZCYL+4ITDkDIh9phaEulxT1Iroyeo7AgGGgP39mCozEl9DJLkHRawx/nSB+7zsuYYMvIrjVDzii8jcIJPG3P9EWcWVqRNP/osLdfSkMyDbA/aC+8zXiLiycSSzGzl3fPzgNLmGT1D0kc++j96nJdASdEMmUCQDutTiR1hler0kgFjCczmjtEBWX02uE9CFcW5Mt2jOeQ8PeQTbO4mnhGUl6n5KYaENKshvDvEgFVxKSD8IgND8g4FtRbv8Z4RixP3HOQzayrFpRVT4pX+TsZJ7b8szGz672FZCDMKxExfsXjlpMg+5Bc4HMMzyukr+fw81qdwIDAQAB",
+  "permissions": [
+    "identity",
+    "storage",
+    "tabs",
+    "activeTab",
+    "scripting",
+    "downloads"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background/index.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon48.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.idealista.com/es/vendorleads/*"],
+      "js": [
+        "content/dom-helpers.js",
+        "content/form-automation.js",
+        "content/price-extractor.js",
+        "content/index.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

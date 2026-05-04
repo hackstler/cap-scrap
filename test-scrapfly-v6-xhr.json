@@ -1,0 +1,1339 @@
+[
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "<html lang=\"es\"><head><title>idealista.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'i','cid':'AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==','hsh':'AC81AADC3279CA4C7B968B717FBB30','b':1709036,'s':17156,'e':'391252d87b09284a634fcdc7c5834817b23ee688f2df3f7c786a38a9620109add044a5a56bbf67a702975b73f3135ffc','qp':'','host':'geo.captcha-delivery.com','cookie':'SZaUeaKxS2VoV0Hz_khDFsSW1GH1xNF4FgocsfvxoZtqsrR2oSmZZj9LLZCaDXhGKo2c1FfIBP0KphCXyEAf6K0W9wu79cHaH8S1kG86ADgmumaqutyS9J2xX~hdYTxs'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/i.js\"></script></body></html>",
+      "content_encoding": "utf-8",
+      "content_type": "text/html;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+        "charset": "utf-8",
+        "content-length": "776",
+        "content-type": "text/html;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:17 GMT",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "set-cookie": "datadome=SZaUeaKxS2VoV0Hz_khDFsSW1GH1xNF4FgocsfvxoZtqsrR2oSmZZj9LLZCaDXhGKo2c1FfIBP0KphCXyEAf6K0W9wu79cHaH8S1kG86ADgmumaqutyS9J2xX~hdYTxs; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=86401; includeSubDomains",
+        "x-cache": "MISS",
+        "x-datadome": "protected",
+        "x-datadome-cid": "AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==",
+        "x-dd-b": "3"
+      },
+      "status": 403
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/conf/captcha"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "<html lang=\"es\"><head><title>idealista.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'i','cid':'AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==','hsh':'AC81AADC3279CA4C7B968B717FBB30','b':1709036,'s':17156,'e':'97a75387115fa7798df815156bb174580453af1c1841e3c108fffb5bbfc423365d36d524ed73c4e3a679851f69f97df6','qp':'','host':'geo.captcha-delivery.com','cookie':'wxC1mHxEjLrYVI8JUd3G~ye9i9e4lfoIqX~SFfHiKCNd9_iRxrbztwUq~8f6Bq7yhFD7bmwEyCSqqI30lrPp4xv4Dk4qUJmPrbZMyH33QRDb6VTfIAekupi2C6idBCDy'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/i.js\"></script></body></html>",
+      "content_encoding": "utf-8",
+      "content_type": "text/html;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+        "charset": "utf-8",
+        "content-length": "776",
+        "content-type": "text/html;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:17 GMT",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "set-cookie": "datadome=wxC1mHxEjLrYVI8JUd3G~ye9i9e4lfoIqX~SFfHiKCNd9_iRxrbztwUq~8f6Bq7yhFD7bmwEyCSqqI30lrPp4xv4Dk4qUJmPrbZMyH33QRDb6VTfIAekupi2C6idBCDy; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=86401; includeSubDomains",
+        "x-cache": "MISS",
+        "x-datadome": "protected",
+        "x-datadome-cid": "AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==",
+        "x-dd-b": "3"
+      },
+      "status": 403
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/conf/flow"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "<html lang=\"es\"><head><title>idealista.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'i','cid':'AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==','hsh':'AC81AADC3279CA4C7B968B717FBB30','b':1709036,'s':17156,'e':'f584b735c68041c9bfc6c75282d4799219b0684ac4f430510cb5fb32f369c667e2a376b078dee611e9dbdd8c7b01872e','qp':'','host':'geo.captcha-delivery.com','cookie':'hqAaR1HHeJwBRB4AoU1U~mFXPs4HaKZ5CwEbGHOqe70G03QY6fnJzrvLTCdU4Q0h00aUU0l1CToS~j~HrvFFQOxZ9vfwE~sV8nvi4F4qSz2iKXR4mZtOugZV8LsLd2XW'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/i.js\"></script></body></html>",
+      "content_encoding": "utf-8",
+      "content_type": "text/html;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+        "charset": "utf-8",
+        "content-length": "776",
+        "content-type": "text/html;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:17 GMT",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "set-cookie": "datadome=hqAaR1HHeJwBRB4AoU1U~mFXPs4HaKZ5CwEbGHOqe70G03QY6fnJzrvLTCdU4Q0h00aUU0l1CToS~j~HrvFFQOxZ9vfwE~sV8nvi4F4qSz2iKXR4mZtOugZV8LsLd2XW; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=86401; includeSubDomains",
+        "x-cache": "MISS",
+        "x-datadome": "protected",
+        "x-datadome-cid": "AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==",
+        "x-dd-b": "3"
+      },
+      "status": 403
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/conf/environment"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "<html lang=\"es\"><head><title>idealista.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'i','cid':'AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==','hsh':'AC81AADC3279CA4C7B968B717FBB30','b':1709036,'s':17156,'e':'70fdce15d994e6e64f40588f5e5f9db8e0a2f27a12c55144614f588153de6f7c08173ec44f60b903585e52703058ce83','qp':'','host':'geo.captcha-delivery.com','cookie':'vqse7q3ynaf0ezc5fW2GHr48Xgqfs93p1aFLnoNuciRBAFW9nVG6aJy0B9Vzq6J9I7RnrjMsZefL13jqI1Zry3N0ySqsFCF~v0IZT3ZehSDtU32notDYGonFaMvv7Cx0'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/i.js\"></script></body></html>",
+      "content_encoding": "utf-8",
+      "content_type": "text/html;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+        "charset": "utf-8",
+        "content-length": "776",
+        "content-type": "text/html;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:17 GMT",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "set-cookie": "datadome=vqse7q3ynaf0ezc5fW2GHr48Xgqfs93p1aFLnoNuciRBAFW9nVG6aJy0B9Vzq6J9I7RnrjMsZefL13jqI1Zry3N0ySqsFCF~v0IZT3ZehSDtU32notDYGonFaMvv7Cx0; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=86401; includeSubDomains",
+        "x-cache": "MISS",
+        "x-datadome": "protected",
+        "x-datadome-cid": "AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==",
+        "x-dd-b": "3"
+      },
+      "status": 403
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/property/characteristics/6918614VK3761H0005WO"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "<html lang=\"es\"><head><title>idealista.com</title><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style=\"margin:0\"><p id=\"cmsg\">Please enable JS and disable any ad blocker</p><script data-cfasync=\"false\">var dd={'rt':'i','cid':'AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==','hsh':'AC81AADC3279CA4C7B968B717FBB30','b':1709036,'s':17156,'e':'fc8bfb528c4d967e585b71d6095912473318c76ccc761afd6abda0b82be75eda69d968382c36f879d8dbcdbcdcc3173b','qp':'','host':'geo.captcha-delivery.com','cookie':'C_Ou~i9P14CB8WYImnXPQOEirA02mPiLtbRVygvR9oX5YZM~ZChwqjBeyFd_ZUPQQHK3u9bLJZ_MgSU~WXDRRaGtZnEHrVo0w2uL5KbVzwCjSg_AKOf4cEPf0lEMeFHY'}</script><script data-cfasync=\"false\" src=\"https://ct.captcha-delivery.com/i.js\"></script></body></html>",
+      "content_encoding": "utf-8",
+      "content_type": "text/html;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ch": "Sec-CH-UA,Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-Device-Memory",
+        "accept-ranges": "bytes",
+        "cache-control": "max-age=0, private, no-cache, no-store, must-revalidate",
+        "charset": "utf-8",
+        "content-length": "776",
+        "content-type": "text/html;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:17 GMT",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "set-cookie": "datadome=C_Ou~i9P14CB8WYImnXPQOEirA02mPiLtbRVygvR9oX5YZM~ZChwqjBeyFd_ZUPQQHK3u9bLJZ_MgSU~WXDRRaGtZnEHrVo0w2uL5KbVzwCjSg_AKOf4cEPf0lEMeFHY; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=86401; includeSubDomains",
+        "x-cache": "MISS",
+        "x-datadome": "protected",
+        "x-datadome-cid": "AHrlqAAAAAMA65TVsamdZMgAVOhU9Q==",
+        "x-dd-b": "3"
+      },
+      "status": 403
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/complete/cadastral-reference?reference=6918614VK3761H0005WO"
+  },
+  {
+    "body": "anNwbD02TnNCUGU3c2JETHdVYkJFOGEwZFVITU41c2M1Uk9MT216TVNBUXhwWHdPV0ZqVFpSTjRpRTJKaHpDdzV4UWtYbHNoaHRaSVJMMzFiZnBER2dINWQxcFZpLWNRc29hUXBZdjNhT19FWnNLcjUtS3lseGQ3aTQ5UjBIU3RBY29GLV9rREtZRlh4M3VrZ21vNUZ0T0RYX2kxUkZkemwwY2F0VzUzbWpFQUNxazFlUWpBVnh5OHA4WnAwYUh4ZHltbGxfeUVkaDlyQy1Eb281SzF4WGJ0eTU2eXNES2hScXpvRlZKOVpzVUxocW5wd1J6TTVWSng2YS1tZVpWRVBaYVVpbDIxTVlMT0FWZGsyeWJBWFBnckIwYjNBNkJwMEZVcnV6YUtRcngzSHJNeW1ZN1VxUnJMOTFqOU82TUk3a0dmS280TjdQZDgzbzhZazM4dHo5cmxGa3J2NzRkQVA0TEhwWmRfMGJXTlMyNDBmaWxzTW1FTnBwZHZJM21BSzFFMjc0a05IN3U1dm9EWjBXN3RILUpSRHRKal9DTVl3aVBsOHRIODhRdjNMNGJFNG1yZW15eGRYZEdVUGVIX0lheHRWLUVjcW1EcUw0aDEwSzlUVGZrekxWTVV3dUV0VmtHX055SHdWNTd3c0s5cUJLejMweERfN1NZR0dwQV9KOGdoUzFCWVVIZGFoVjdObTdQUXZPZFVsYnpLdmtPMnhuYUtHYnNoaXJPSVFlR0s3akcxa3RVc1c3S25EMlpmcXVWN1NselZlVTkzejNNb0xQaWx4WG5lWmIxRTZ4MWdrRDFMWldvdUxVZmtUTzZndXFIdlJMLU5LcFZoXzlfRkpJN1MtWGQ5Z2tGSlVpYjF0RS1ZU0FNME43ZEVHT3hhWHZpSHRXSnlMaUpKeDBTVWMwTThaZEE1UmEzbHNzRGFsRHI1clByZEN4VG96cldJc2owY0p1T1VXWVlyUVE4cmlDMnpLQS16S2VPam9fSmRjeGRJQU9fX2dhaVBYZ3RpV182VjZuWGNoUHJGVDZmNlF6RWtOSWhocXRNZmdyTGpUUmN5T29fMVdYcElNTlg5T2FUOWRodjdQdVlZdjh5ckptTHRWOUhBeV8yUHZpTUZXX1FCYkIxMHgzak5kV0ZmRlFUYWNFTllNc1VFOU1SNVFmZGlqNWlDdF9GdXFmbXJwYVhBd3JwWEk5eHRoZVF4S2FHVHF3eHZFRDJGbXhQT184cUVEUWo4Q25sWU1FaXlfejF1RG5GME5LaUNtSlRtMnJNVTVlbW9kV2lYZVhzMnFmdVNwRkM0ZDA5b3BWSEczTGpJN3VBdlI0bDMtajZMNmNIZDlheF94TC16SFVmYWJobW04WUU4T3JNNFl6ZF93eDNGVDM0SVV6c2p3Ty1hTm05SUVwX2pnbV9lNWhkb1J2aDBFc25wRWpUOXF2eUZfNzZQMDhJSXRtbXA4OS1uRnJjOGY4WTlOeDhITzFqYUdnMDFkNzFYb2gzX3htMHJ5WUNJVF9yYWttWXJ5UHBqZEVBNlBRd0c0V0cxMmxNT0o5OW92VkVzcm4ySGxnYWRkNWFTNGxEVkcyTGF6Nl9NeEZ2TlV2TFFmSGliNEZ0cGFETlJoYVoyMGRlQXFsaFItRjdwdnJvUmRDR3h0dERIZHl3VmZQcnNyb0F5R0hEOGFxS1QxMWdicmVJWmdvaU5EUWZiTmFUelYwTVR3eDhENWtZdjFqUy1VOEJPRHpvZjFVUUptck9tVHJnbWxia3NoVl9BSXlyRWY2aUh5cW9KengySTZZOXEtbW16RkRXbTlLNW9SRFlDZUI4b0Q2Rmxzdzl0OGFFaDhZbVZlbjVZUm9Xc25FTHk4cFBLcmU2dV8tdjlHRkc2UnA5ME10YTl2LUlEc1hsSVFyLTNrSVU4RnBQVjlMSVc0TkpMczBMc2wwd0l1TUswZXAtVUFTaW9kRE1LMmc5bHZLUFB2a0pxdm1vNVNGLU1qaVhBck0wOGcxOGVZQjR1ZmJfVUN0OWNQcnBxLVZQajNSTVpXeDdQY0xpQjdaQ29aUXZCMmtHSXp5YkpYOFl5dHpOVmZNLWJjN3UtS0diaGtrZWtXZThUWjZvdUpXTkxzclpDQ3lBYzhwQU95OVNnT0g1bUt1Sld6RVNmLUFlQUdvcld2X3FWMmVzMDRQS3ZQQnJFdzItdUZFc0tIWVdvWUlqSzQ0S0pMTjl3RjVPQXV3TkZuQnJQcVpjU3JTOE90bmFyeEU0XzVpQ2pnZm13WHdEbkF1YTFkalhzQVhiOURzczBWOVg2SFZETjZ5Z3NFblk3YnltRnlmeEYtQlFZSUtuWXRXODdfSmVfZDNQS1pIcTExQzkxdFJlQ3VKRTZadjdqTU5Tc3RJREVMUll5TFNXZEVwNk13ekZseEFMWVB3V2gxaU1XYzNJdXB2ZzlmeDM1SzRIbDB0M3Z2cUpkQ2ktYWJxVVJMZFJzeWJMWHNBLVdFZ09XWFItOXJxNlpSTnYySjhhaXpvNDZtejQ1WW9TQ3NXQVpuTHV4MGJtMnZxQklWRzIyQVpBODNVUFZ3WHo3U09GSXBLQ1RUbnYxeTVvQVdCWmNEMVExSG5fbG4xZURfUjZrTmFFanlETEFjYWo4QVN1dTNYQW1KejA4U3k2b3JpNTAtTkhmRndMMDVoamxPVjhqbk84b0FrYWJYTzZXWHBWb05wTkQwRjhyc2dJcWJXVlM0V0NqYVQzZ1V3aV9IZ0tjU1RUcjkySmxBZWg3MjFnRjBTVU4zQ3ZkMHRPa2Naa0RUMktFaS1UZlpjMllDV3YxWmNTYmdUMGQyMHVIdmJKblBVdzdxSkZtSFZRVEJ5b3FwTWJua3BacmVyNkF4ZzFWNF8tcXNYMnM5cFI0V1lEUkwzbzVyQTlxMEN4TGd4RmZCM19EZzhyYVc4Zy1ENkZ0d1pweUZXUHk0OXdwWnZjRmlkNF9BaDl4dnMwcm1ublJpSGFRRmRiT2JsM2JBZUUwT0xwVmRaLV9WdzFqeUVvSjZUOTVVRWVES2FjU3MwelpBX1lWUDJ2Y1RtX29CWEtpUEpjZDBTMXc4aDNuaXRtREJjcGRfZDVFaXBMT3dVbHFBYjBqNndBbnNUNDRnSllhRzdzMVdhSjBDTkZJV2k5aTRfR1lfTFUxcTBsWXdQYlRSdEdDRnotNjJCMFBLaVdwejVvZUVaNkZreE12T2NYUkpBWU9ERkJvcElxUXJyc0t2RVRqYWZFaUdGOTRWQXR2TUd1WkhXZU5ZSXFTWkJNdUVlVDNxOF84TmwwaW5oc3laeFlWRU9MTEVqWjNIZlA1QTFEVlJsQlMzeldodklHUnZrQ0pObXh2N2FBcjBMeXFvVEFLcFdMSDlla1RsZE8wMjdfaXJDUU1zOGZFeTZpU2lRYkZMdTcxc1ZNdlpmeEhmMUtxSXRUWDdIUDctRGdOWlp4SXBfaFNRSXRWYS1zNU1TV0xfMzN2RUU5a0NSQnhjOFlTMVpoYzFEeE1zLTdUVS1EcklSSnN6czc0SEpBZ1EyUzhrMDE5SVRQQ2Eybi1tNDJENW85WE5PUzJ5dHM2VFdlR09ING9jakhwcy1LYjE0aTY4MklRTExoc2J2dkJFZWVxR29KZFFmYUdMMzZ4SVFORDliY013TUYyaWxCLUFGSHVaeFN2bVB1aW9NTy14NTltRGM2b185U1gtRUQwQXh6T3BHbm5XQ2VMUjhZck9hR1ZpSmRHVm5mM2xST243RlF3eTk1bU5xX2NMYk9CeEdBR1RBaWRKTDBGcHJzMk5qc1RmeVZMeVFQOG9va0FNZl9jYm5hWk1iajljcDQwRG5acW1QcUlJWGZZVGdSVHBzRHptZGx1MEZFdko5cjZUcEI3QjhqakJjQTByaEN4ZEhnZGcwbU0taGJLWkJseVRSRGwzQm9IVHAyQUNFSXpXMWNpclpzR1QtX0ZKbVk5RGQ1QWJxRkxsZlV3N3lPekZFc3BYSDVpRlBEdkJVSDZ3SGc3Z3ZTVFp0bkdfcEctemMwXzNaNktFQjlFSFV1ZmszaHBTSDllbklybTNoZjRUTkduTWdaYl92Q3FjWjZqTlpmTmdPZXg0dVp4Nk5fYXdua3NHWHBNWTJtRUZrLW1Da3M2cDlPMUNTQmNqTG0xWFVwMW10cXpUZDk4Ump2bDFjOEdkQVh0QWMxSklWNWRkWFcwMFpVYTBOd1NGLUlYRnFwSGJWc3NJMkp4Uzk5RU5DdFJEUWhrX0Z3dzNLTGRnVDhuMUtvTHVlTV9mbnpuUThuaTlvc2VkaGJwWWU5c2JmTm9uMHdqSlRJU294YXVPSGN6UFI5VzM3bmVndGVwN043Q291bG5DX0tuRkszRmoyLWVJT1cxZ2xmMTBXVFlQb3FlWW9HLXd5VWkzS3pIWEFjOEM4ZGFsWmxwbnEwY1hEeU91Q2RJbFE3b3hNeFVidW9scnFReXMyd1dxV2p0T3BGLTNYMGlyMVdQaFZXSUY1OGplTnlERmJOb1VNS0tVbk1uQ3Z0azhqTEljbURJOGw5cGN5c0tXdVBZLURkUzNodFlyUnVhZER1LXlmVjlRR2lLbFl2YThNZEpobHo4M0J4Y0E1d2pzcDVfcHR4TTZwWTQ3bjktVVViZWhTOFNWOHlfYVlMSzVHa3VCa3dkbnJhM09oLVZYdmlOSDFRSGZya0F5UWZqNVI0R2hjNHVBdmRNUGFnQm9pd09wXzBDRjVWNk84MVRMZHRJMl9CYnB2RXJXNjNJX1Jfc0NJczdwbDVfUlJxV2J5ZG90aUVsM3E4cnZvbE9KdlBMLUFFZGE5bEtZRlNNVEJPX1UxNnZMTkgtcmhaUk1uWEgxX3F0aFRZdlBYaDBPMWR6RjVYUWx0RXdOTnVQVVU0Xy1LMlhsTDZ2U1VSdF9yM1dIVDFiNnNHZV91cGRtZWJpeUlILVpUODlmenhSZnZldjRTbUt1Q0Jid1BtTGpXdURiTEEzbWFNWkV6QXlyS25fZ2p4RUtsdVptRmoyVVRzM3E3Q0E1OTZLbm1HaVRmT1BaUjZIdFpRcng4bzVoMGhBaDVmUFRVSHpDdTFNXzBwY2tiR1lnZ28wMlNmTkRZaVU5Q1JycmhIZHNKZUROQkhkdEduUnM2UXJfcUpNYV9tSXFka0xIOVZGdE5EcHQ1SFJzQkl6YVV3ZldmU2hSMHJYVEVQcE4tRHRMaHFQZzZQX2JqZlhVZmliZlF2QzI3SkZXcDFKamZXNDNFcmtmR05fdHZXTXVWZXFTYjBrWkhrWmJjWTVoTGJud3VNNDBxZS1UZXJwZEtNSEFWSVBmX0dFeUM4NGRLU3RyZXdCVUJ5Rl9jay1scG00aURhbHJ2LWNvNGctNzg1V00tNFJyRVlJQ29qcE9ORFBsSVd5TU8zNG1tZk0wTVh6NXJSU1IyZHN4N3YyNnR2XzQ3eUd6dVNTSlA1VzlXb0Vlem1pc2x1UGZ4WkZIc2ZMUzd6Z0JpZ1RCN2R3SjV6WGFqWnFqZUVoYzhpSmduUEl2RUVidkNRWkxTQVVzS2VvQS1xZ2hqVGVJaUxwczBZeGVSVnViOWNRb2NhSHExYy1MdTNiRDF2U2d2Y3RDeXA5RGZRb3lBRFd6Mm0waWg5RWZkeUtZUElpY2tzd2FjYWtuNGVqcTlwU05VQ3lKSkVBODNpSHFpcEZaNC1ld29kVFJmZmZOd2tDM2NiTnZ6anREbXdaX2NnS1hZSFVMcmdjY2pPaFphdDZJZlVUNWpPdkJ3VGdiWlVYaVBIdURaMDZTM1BkZG9OZS14M2stTjdjc1NkUlRndmhmQ1FOVEJOQmRBdHFBTU11dDREcUpHNTBLVHpqWU80Q0Rvam9BUzFFekRPb1RkOEFiMEJKRklSZm42dThNTVZGblZnTXRZYld4ekUzT2NnLWluQThQOVliSkdfLUpwZFpXaWZKOVh1aE1wN0wwS2QyN0Y0RlhYbmtQdjlYc0VtVUlud1ZjX3BoVmtVWlJndFVWdGhNNllDVXpxVXdybTdzR01ERG9pMEVwV2EyYzdnZnFoMjZWNW44d3E5bW1wUDF5YS1CdF82Zy1La2RWcWpEczk5T2JzNmZ0dFR2cFM3TGRYZG85ZG5qLUFmdFlsRnhRaTV2QTVqVHNEb1AxdGxYYnYzN1F5TVJTTmxiWjZRQ2VDclQ2aDY3TDJmN3R5eWlNdm5IdURERVppdGpkV1JHTl9ZQUVfRDMzTnJkUmxFOTRLeGcydHF1dnkySlhxMkhOeGF3VGRCMXEwZWZiQ2Vud0dteUxYdUlRbnczeFFHR0gwSWRlWFJIX1dnenliYVdaYWtJdWJNbWhLd2VxYWwtM2ZBQzlZMWNwSUllVmFFemJtVS1heVItN2hSTmVLc0lwRW9FVDBYTnk4UWtYOHNWclplN0VaZUlUblBhTzIxN1dxQUhoSDB2TWNpWmxUYjNsd3BMN3JvR1RXb2FhU0p4cExseVpoWHQ2bjg2Y1hyQi1EN09NOFg0X1hFOEM4QzM0ZmN4d0ZORUd0ZHBfWWU2T0xqMlJJNnd3NHZjYm02bGNCSW1JeFVNTWxVRDlMem5kVVhVeFIwbnE5eVJVQUk2a3JVRnk1ekphRHo1ZWZ5M2xBc283UjVhM2ZTR01rUm1jTDZzLUI1NVVGT0tEZnJNX0tCTmxuQTR3eGM5emE3RHZnTVpSJmV2ZW50Q291bnRlcnM9JTVCJTVEJmpzVHlwZT1jaCZjaWQ9Q19PdX5pOVAxNENCOFdZSW1uWFBRT0VpckEwMm1QaUx0YlJWeWd2UjlvWDVZWk1+WkNod3FqQmV5RmRfWlVQUVFISzN1OWJMSlpfTWdTVX5XWERSUmFHdFpuRUhyVm8wdzJ1TDVLYlZ6d0NqU2dfQUtPZjRjRVBmMGxFTWVGSFkmZGRrPUFDODFBQURDMzI3OUNBNEM3Qjk2OEI3MTdGQkIzMCZSZWZlcmVyPWh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmlkZWFsaXN0YS5jb20lMjUyRmVzJTI1MkZ2ZW5kb3JsZWFkcyUyNTJGdmFsdWF0b3IlMjUyRnByb3BlcnR5LWxvY2F0aW9uJTI1MkZmdWxsLWFkZHJlc3MlMjUzRnJlZmVyZW5jZSUyNTNENjkxODYxNFZLMzc2MUgwMDA1V08mcmVxdWVzdD0lMjUyRmVzJTI1MkZ2ZW5kb3JsZWFkcyUyNTJGdmFsdWF0b3IlMjUyRnByb3BlcnR5LWxvY2F0aW9uJTI1MkZmdWxsLWFkZHJlc3MlMjUzRnJlZmVyZW5jZSUyNTNENjkxODYxNFZLMzc2MUgwMDA1V08mcmVzcG9uc2VQYWdlPW9yaWdpbiZkZHY9NS42LjI=",
+    "headers": {
+      "Content-type": "application/x-www-form-urlencoded",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "{\"status\":200,\"cookie\":\"datadome=sQUCnYakDvVAunr1CpkvnfMVoy2EPzppQhWegUQs2jUfDm9xd8xe7L7MTMEXa5e6SOXDIVzEV7bRb5bWgd8WVijVObTFj90eWpnk6J0fD9i16G4hucGVyqamvVmLXzuZ; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "content-length": "234",
+        "content-type": "application/json;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:17 GMT",
+        "expires": "0",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 google, 1.1 33e036d6d8900b130219037836844f16.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "inrtTi9YxovWMfiEXultl05-uK7m5Ncz6wDtM_DLVJHF5mknM2uRhA==",
+        "x-amz-cf-pop": "MAD56-P6",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://dd.idealista.com/js/"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"responseStatusCode\":\"200\",\"settingCountry\":\"es\",\"settingLanguage\":\"es\",\"userStatus\":\"2\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:19 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:19 GMT; Path=/; Secure",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com//vendorleads/valuator/ubication/datalayer"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\n    \"cmp\": {\n        \"purposes\": \"${cmpPurposes}\",\n        \"vendors\": \"${cmpVendors}\"\n    },\n    \"device\": {\n        \"type\": \"${deviceType}\"\n    },\n    \"event\": {\n        \"class\": \"page\",\n        \"name\": \"viewConfirmLocation\",\n        \"origin\": \"${eventOrigin}\",\n        \"type\": \"view\"\n    },\n    \"form\": {\n        \"name\": \"confirmPropertyLocationForm\"\n    },\n    \"page\": {\n        \"section\": \"${pageSection}\",\n        \"subSection\": \"${pageSubSection}\",\n        \"type\": \"${pageType}\"\n    },\n    \"markup\": {\n        \"test\": {\n            \"name\": \"${markupTestName}\"\n        }\n    },\n    \"response\": {\n        \"statusCode\": \"${responseStatusCode}\"\n    },\n    \"setting\": {\n        \"country\": \"${settingCountry}\",\n        \"language\": \"${settingLanguage}\"\n    },\n    \"tm\": {\n        \"datalayerVersion\": \"2.0\",\n        \"markup\": {\n            \"isTemporary\": \"0\",\n            \"owner\": \"SE\",\n            \"project\": \"TM-4507: VendorLeads\"\n        }\n    }, \n    \"user\": {\n        \"hash\": \"${userHash}\",\n        \"mktHash\": \"${userMktHash}\",\n        \"profileId\": \"${userProfileId}\",\n        \"status\": \"${userStatus}\",    \n        \"toolsService\": {\n            \"geo\": \"${userToolsServiceGeo}\",\n            \"role\": \"${userToolsServiceRole}\",\n            \"software\": \"${userToolsServiceSoftware}\"\n        },\n        \"type\": \"${userType}\"\n    }  \n}",
+      "content_encoding": null,
+      "content_type": "application/json",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "0",
+        "age": "553815",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Thu, 23 Apr 2026 06:04:05 GMT",
+        "etag": "W/\"4331650cb3ee2f3fc4f2d10c99156883\"",
+        "last-modified": "Thu, 23 Apr 2026 06:03:55 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 6facad9f7e9d7675fd5d35a1551a9ff2.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "vnO24_iuyDBKVsWOgddM9faF1f014rJAM3C11SuJhCs3VLw8TM6KrQ==",
+        "x-amz-cf-pop": "MAD56-P4",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "Hit from cloudfront"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://st4.idealista.com/datalayers/idealista/vendorLeads/common/propertyLocation/viewConfirmLocation.json"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"country\":\"es\"},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:22 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:22 GMT; Path=/; Secure\ndatadome=pMvBdW5wfITgrW7qArVO9l_dmvqZrcoYz7TS8YB9f1Efc_edUE1becDc7AJx4XR8GbXYMJIhI4VJzt8hwIAiLhJ8PUzTzxtcj6gwMF3QbUzpXJnqaQ2JqNtyDjk6ubIZ; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/conf/environment"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"isActive\":true,\"action\":\"vendorleadsValuation\",\"publicKey\":\"6LceRo8UAAAAAFbfO3vhtiQk66j-fJEkQichNAk2\",\"recaptachaUri\":\"https://www.google.com/recaptcha/api.js\"},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:22 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:22 GMT; Path=/; Secure\ndatadome=4enxlVmtEgpu74yHhkYPqRjtohJ3oS8bV89UK4fkONYmLzPdNGS5NsyC2xZVt1aSJl20VZ_373osiBVK5z1cvZTmbdFIfpGcTnw~mGJnLrdnCst9m6XICwsWddCvs3kg; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/conf/captcha"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"doorIsOptional\":false,\"blockIsEnabled\":true,\"newCharacteristicsEnabled\":false},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:22 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:22 GMT; Path=/; Secure\ndatadome=JjMvATejGiV1gnO5~XJ3gZhOc1ABI5CVrldzAkkqE6tIS~vJf6gAiT9SIRxKaAESx824lrRGhAhf32qE9H6NpEAPuK6KL5eYEkwzPQsXJBK7V87Nl7Zx1Mqlx1QEi0e8; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/conf/flow"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"address\":{\"streetName\":\"Arrayanes\",\"streetNumber\":\"7\",\"town\":\"Madrid\",\"coordinates\":{\"latitude\":\"40.39331449261345\",\"longitude\":\"-3.743663074834389\"}},\"property\":{\"cadastralReference\":\"6918614VK3761H0005WO\",\"typology\":\"HOME\",\"stair\":\"1\",\"floor\":\"02\",\"door\":\"B\",\"entrance\":\"\",\"block\":null},\"map\":{\"source\":\"https://maps.googleapis.com/maps/api/staticmap?size=720x492&center=40.39331449%2C-3.74366307&maptype=roadmap&channel=map_detail&scale=1&zoom=16&key=AIzaSyDXXgOKCXjkHbK--Fi_kCasNvGyokjk_hA&signature=lKAh7Mu4YshlzFT7ID75u8UXhMo=\"},\"provinceCode\":\"28\",\"municipalityCode\":\"079\"},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:22 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:22 GMT; Path=/; Secure\ndatadome=TVy4RVxJbFdG626nkZoBQa_xvuLfVWfEGAw6kMC75FosCn_tUAb1WSDxUHdEPFQyaPZJf32l3xxgEI_1s4FPi~uUNd9R2LdJuiWZtM4lKz3xbxa4guRllAZdXcjuT3ei; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/complete/cadastral-reference?reference=6918614VK3761H0005WO"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"areaInSquareMeters\":94,\"typology\":\"HOME\",\"rooms\":3,\"bathrooms\":2,\"pool\":false,\"specificCharacteristics\":{\"penthouse\":null,\"duplex\":null,\"lift\":false,\"terrace\":null}},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:22 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:22 GMT; Path=/; Secure\ndatadome=nUGZNP4Kxlkr8tE_wigb7jXqwbTN5udfwWT3uqpFhxdoxNG7Cm_nEo1jf4bPoZLtS9xyKdyRJJcpGbpYO2_MQc0FEAbrHPMd16dePzHYkwgwxrty3hLNIsmBag5cxVSp; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/property/characteristics/6918614VK3761H0005WO"
+  },
+  {
+    "body": "anNwbD1SUjctMXhvdkJ1UVBVTjlBMjEtaHhHQWNXTV9UMEcwZ0k3blZNaDU2Yl9xeEEzU1drTmxLOFk4a0trd21TazlhTG9uMTdpLUpSQUhjSFh1S1RJNUVZbEJBMFVFS25mc01oenNROGdqWXhaRTdEUmVDYjhWMHFWbThHSlhkU2NpSEVQN0VqcC1SNndqYm10b3FJSmlfcXFJWnkydkM2OWFkWFFkUThaYy1VVWhDR3FYbm5WNnhXQUJzOUxQXzZyYllDbWtyOGVjSEszTmlqSVVUZTRVbEhtaWs0OFRPS2RjbXBWMDFDcDlHNEtMMGVxMHNfVVhtWFJBeFAxZFdOTkJoSm9udjdCVjlFajJDelFxLXZDVnIyVklMV3FCQjZUc3N5T3VDWWhIcUpLZkVCUVRXYVhIZndsRUpMcjBMeHhGMHY3NTJhVnBxdGdWZnhzeDF0VGhKY0ZsQnIxSk9LTVJSak9fLWVjNWE5RVVqMldsbjR6SlY5NFRYal9JOGJwTXMzMzlTbXpEMlNrVDg0MnExQ3dvZ2RvM0Y1M2NtN29tQUp4R0g1cHZEUEFHcDlSOGVLZEpPQzBmNzZIdzMxb1lydzRqVGFoRU1GdFJ6aGdNXzF3UWpXb3F0ek9OUG9zbTU1ZGJjMTNOeGRHR0F4a3hkTzFmSjZBNzJKNHdrZ3BTekR3Q19mdW5veTk2Y0daWG55T1N0bzRab2kyZUx1ZktkWGJPLWZhcG5SeUpLMVJ0TFAtUFZiaWJEM3ktNGRKSEN1VjJacnlfb0dtTTktWGlFdUw5WEhaa2pKZU1VcXJQZnhjczNlNW01OFJFdGpMUi01d2d2ZjBQalhYNHp0S1VaVUtVZmNyZjZXQUVtdWx3MHAtd2J3dzlvSE9nVGxRVGUzaVlUdEEtNHd0RDFjLU5MWEhlTG5rdmMxRDUzckJURXpaOHBLSFR2YzBjb3dKVW40WHhabnJqaVBVamRBSjM2TlFNTXpROEtMSkxWbmUyM2RPLWhxQ2ZIWUFNTERiWWZqa0RxTkVhMkFXbGc2RTNwRlk3QUtxZUVSUTBEc25fTE9kLVc3czVYQXRVcFpTODNwTGRhbDAzVEN2YVMtVjJFYlBsd3FjeF91ci16SVhiNDZ5aDJTLWxWQjdCenFlT203NHVKd0R4Q1NEbTRfMEczOFY0c1VUbmF5N0ZnRGtFbE1aVWZPYnpuSnptUmNyZ2lfQUFnQmZheU9LcnV5VWtLZi1jUU1pb2NQZG9JU0xrU1dLbk1sLTBsbzA1UVFXTWdoWTRuUHVSdW5VNTMyR2w2a0hmWGhYX25NVnBCb1lNQ3E3ZUxYSzhMY3NZQWxwNmJLMU41Si1LTWZxV0VYVHRGY1JkTGRUaDdXMGJ2Smd0eWNpbTY1UVY1TXgydlNwT0lYXzh2Z2o5OFo2c0FaTVB6cUQ3el9udXhCdFZHOFpIeC1PZUxrQjN4MUdEVVVMNTd0OGZQSTBpZW52SWxlbWdTUEJBWUd2VzVQTXRYWlEtM1dUWFhQemNpOEhoR3JEa2NyV0NPSExqZlN5VTBCNVlPQVZxTWV0QVFJWHdQSUlnMDVuMF8xa251R01PeGFMb0dhdWlCSEpuS1hiYmlzRGU1UlJIUjY2bWtDRDAweHNWQ2lLUTNmczBaRWwtR2Z2b2hLVHQzb1k1RE52U3ZjdlRsd201eXVkcEdFaXpHaDQxSHhLS0J6ejVUcE9BYmlOMFk5YWpZNHpackdCRnBUU0J6ZXhrU1NVWlhfbmRFanRHOVF5MTh6NFEzQmNVcEFYTjNhTWVsNjJlSmhiYm8wUFVvbDVWeHZuQVEzNzYwWWdzTEdpX1J4ZllZMHR4bVVWeWdjbVBwdjI0WG9MRnlOMjRUT3lfTDhVdTEyWEtwdm5iSzlZOERsbl80UGU4ZU02SlRmOG9ld2lTWGdvNEtrV3dLSnZHV3JtWThhTTFNS3BfOWt2aGRJVVpMTW5xR2c3RC1kbnNVOVlJUC03bTJBWmNvWXRIdllGNkhHY3YxRnFxNzN0cTNxdnlFM3diQ2ZQek9YLTc0ME1hUHJxaUV2bzB2dW96MW9LTkNQUEQzYVo3N0tJYnJpcUhub21za09URDEwMEt2dl9mbXc5T0JkNGF0RXdtYmJLQjNsTnNuY1dPOTRvUVZHanVqelR5NmZ2VWo4NDZnTHc3OU44ZkwyWFhUaVpsUTZOdmpSYTBrODlKb2FzaTdJVGZEdVRGZ1dleXRucWphb3QwZkJUN0VrMVE5dEhyUTliNDBzOFY5M3o4TFcxdmpsTFpacHM4a2RtckozRThIU0F1bTJsbFhyMko3X2JfXzRCck1BYjhPZDJtaE94aW1mYjJ0c1VVSjloRzcteDdISktKSGlmMWUwbmVtM29aY3lhRXhwNEN3U3dGUmdIeDhXWlZlN1liQW1VZmJzN3RlSFBZQU81dUdrLWpDSEROMlVmUkxuUEtIRjgtWldRUGtmODFsSEUwNzRCVkpwS3hEZHF5SE4zazlPX05HalRwUXZwZUg1T2d5SFdOMG5SWDdRN2VXUUxNYVctbmgxNVNFenlnQ1dUblhuakhqYmx2dGN5SEVFUjl0NlRuMC1rQXFtY0xQdW5uSER5WTZ2TmRnd1dRMVBZUml4Q2xDWG02UVZZYjZaQWhtVmpUYUxIRnFkMFIxNjRFdXpUSGNkb3FJdUw0UGdBTG1ORVFIc3YySzBHVjBkTmplb1VXTks3WjdvWlBuSWR3TmtjTVl2OXExanJzZlE1NWplSEJLWExkYWk4YU5FUG44WmRZSFNHVHBrSWJPcTRoM3ZKWHNaclJXczlDeU9WckhhSFRUcDhXUUxLaUoxbTNiU01OaHRfMWcxQjUxNi00YlNYUTRENTVEalpyZDBxWk1seVpUbllPQXU1UjBfTWZoWUdHWndXdTBGekt2ZXdvRlcxM01WTTdndDMzMXU2R1ljemJSZEpTSzUzMk9YTm1SZDllUVlUdXFEM0ZwYmpNZVowSFVMcTVRVUZfVWZXWlBvMjJGMmUxYTlUaDBwRDl1RFB5SG9DR3EwMnk5djRpTmI1SS04MGRoNG9rTUhSOUZpb0NrZ1QyaGRQRDlvYWI3VW9wQ0hZMEdIeDU3MERhbUZ1OVRybzF6LVVBODY4SHc0aUE0MzgtRVFzX09Ua19pbFBKZVFISzNGc3FFLXVPaXdTYkJRWjdycUpQQlk3LThVTXVzbUp4eDhZbFB1YWJoUEJzMTJ2MnkxcHQ5WkM1eTRGXzdTMGo1aW91THVkQS0xUGN5eXMxelhoc041WVdrdUN0a2pfQjROQXpqNFRodTBuRUppRXN2NWQxV3VFSU16OVpJS1pIMUVTM05yWUFtN2gtbFdCQnpxWnI0SjBxWXczaFlScFprQ3VSYlhDcTVXWTNWLXlyUWRHeVFxaDNTQzV3MlhJdGFreVoxZ05KRjgzbU55MHM4UVRzZXJCOUtuZ0xIZ1NNeHFqNFdGSGtRdFBWSzZYTzZpNnZxdjZXVWx0UU14VURZcnB6MVE4N0FLWDRyMnF5WW5JR3BHeTB5TnFUZVhKb1VyQUZlV3dnbGhSSlVGZUxRLWlXbDhyVFh5b2RSZTluajdHQ2s0U2ctYTc5V2h0RW51TmVBcnliVWxrUldfTkhUYmZyM3RGcFE3Z211Z2dKUHU3WHpRZjN5cTBGNTNqYlFHc2EwcXBTSEg1QVdfMi1tXzFfWlBjR3BOVGNXSGhjWkphbElPalZsZVEtUW9hMU9oME52VUduTHN6NW1KZlR4RUVhVGRyNXJoOGt3OENEUmhReUhhdjZBbHhHQmdEajZCeXpZblJkUFMzeUR0RWhiblNJd2FlRV9iRE9DVU04Q01mZDNLSllqTlRLV3laZ2U0YmN1b0c2VGJDR2RfTGFhOHBXSWRUR255REhyR29kWG5GTEEySHJmZThpVHNtV0pzRmJXU0FYTnhxeERzeFJrWUpVNG9pbFhVb3M0cnlnc01ObU9SS3hSUE4zN0tfVTZJUmg2WEI0bFhGU1I1eTFzZmxyTmZFUHBYMUNDUFFtWi14Ny00dVlqTE1XOXNjUDM3SThkaEp0Qzgya0RHenoyVGVodzhCd3M0ZVJKRlBtcUFJUWxzUmhYeWFzTG1oR1lSQkNja09idXZTakk2MW5Rdkh4TWthZG1tb3dadVF4cTdkV2lheWVaTXZDRmxucFZiME1FZXFvcU9BYzB2RWU1MUc0VXV5Qk5kdGQyRnNtbDZRTGVjMmJpX0ZiQTNCM2o2c19SbFY1QzlvT2JzaDlveERvaEZ5UEdRcjRrdVd0Uk9fQS03QUlvbWR4cDlZMFQweGRrRG9qZG1qcXJmeDBKREZEQXd0RGlQQ1VzY25Id0JzLWNBUmFxazExZWZRVEZYeU9SLXRkUWtCUWxrY1JCaUdCbW9jS1NNeFREX2dhZWd3N3ZiU0UySUI0bFRwYXNVTFg0bUFqWnRLOWlPRnhFbThhT0RKeXBPRWp5Qm5mVXpvSUVrbW5GRUpTSERWaXVhSFdzTnVDWEMweHRXUlhBeFkySk53UWh0Yll0TmoyQmVJRERVMTBkVzZOc1h2eVowTVU0NG5KbkVwTm5qUEpuOS1SeHVCbzNldnVyQVFJQlIwajVUVWFpeW1HbmVrdElyUWFFM0FDYTZHS3N1X1ZjVGpaMldTdUY1VHNCMGZUdG9aWTN1Q2F2UUxWQlczOVlrOE9kZnJRRTE3MEx6NjR3T2IxdjN1NmxaMzE2NGtCYmhualVCalRGRFRmaFZiSUVZVmExdVF3cEY4emg4dkd1dFoweFEzdkNaQ2xzWFNLdXN4aUExU3V1TXA0X3JMaUFyQWNzMUh5T3prRVJWOFVtSnFGYmY4dGY0WWJKVWVrUzItQi1PaGJXak9aTTUwSzdhdk5OLWplSzFZMWJmZEVQNGJSOGJvMi1qb0JTT29vRTdnQnFYQjcwZHc5RlNxX2FqTW5fMUpKNVNaU0QybXBiU0RkdG02NDNLaXY0UW52QUNNRFU0SGpYc1BYSkw2V2VoMC1TajcySU1oNkcwN1J5WlhETjZhZnAxSWo0enlPeDc2aWlxQnJTZm96LTRldHdoUkJYMzdrN1hISVhtdEFHYWF6VHh3dE42MlNtRFZkem9hdm9sVFlCTEJDZEdqMWxrbVR4VHZ5XzNYU1UwYjJMZVE2b29GNFY5YUFKUTNraVZBWmZFejVyMW1yZlp5UklQdkpMSWJYS1ZMY09wVkpQanRWWE1Rc1BSaVU3NjFsUjZGTjJhTnpwZnc5SFBudWJ1T193WUZOdkdUb3VBXzdvdm4takwwUXVlaGVLcFVnRkJZdzZUUnY0ODZwMVptbDYtQTV3LWRZXzVhWXFaOEVGMk1Wb1pldVJjc0dPLTJNR1NGUnNMbGZvUTVVbFlRMDMwdDEtUDZoQ3VZTzdTdjdHNGlUNGFyenNlUHZESkJiUmhrV0ttMGw0QVNXLWhKVFV2WDUzcGU1Z3NJbVRic1MtTDh5ZkZPV1J6MGRFcVVFVGhEbzFnWDZhcWt5Q3JDS2hBa1M0ZHNWM0FjNnZPNFZ5bDdZeXFONXU3RWRGZ2thenVzTE1aekZmUlE2c1NlV1RTMk5xOEdOeFlvMGpKUDU3TXBTNjJqU1VvUmhyU2N6V0kwUEZGRFQ2RUdpZlNmUWZLcVhuZlROOXVpMXVMdjRwQnk1UGpZcDI4Q1diQzFmS3hfTGZ0Zk9OMTRqZEJGZW9vZWdFNW9FSWloZEc2SXBYRUllaDl1QnA5cEtsNTR3U05KcE9DQXlTazVxcG42MkE4dnJITTBqRWp3UXNseEt5QWoyQk5JazRFb3VxV2F4amlILUNZSjNUeVE4LUNSbjVmWnhxZmV0cTUwZk9kNlptOHlqa2YzTnhMNjc2RXdON0F1SFByLWZkLXBxcy1LbmtTaWt4ZVRmZkxBMWpGM0R5TGNPZ1kwTGpvWGJ5TFNlc252RENDZHNsVXptNldBYkRzZ01PT19QNDQ5clExYlVCejExdUpxT0FLdWhnX0FvdlJKT085NTBFeXV2TUk5Tnp1S1FDYkJFMGt1SzNCTEpkcXFQWWhpcFJhMmV1U3luMGRlUGFScTdzbnplSU1GYVpwd2o5T2VQREJnMnlOSUg3RnFUb2JkMFF3cUp2WFNIOGdweldoLXZreFRLMmp5X040RlgyRHJQWkRRMVhsUldGRVU4UVh5T1l1R3BPTExhWU5JLXcwMVZxZ3pmaFJSdFpkb3NwT21OaUhPQUgtWEc0ZHFRNzdFcUVJTEJwNW93dXhpMHVOYXdaTERXUHdrd1FTTVRvZDU1N2FYTE1Jb3hfcnc5VnNDQUpXT2d4aDBVN2EtY1cyLWROR3VpMmdYY0FTam1qVVBQLXIwYWRqRGtXMEJ5bGhjVkFOX2NSWnE0WjEwc1UyaG4xTEFhM3dkTk0yU0RvOHpScSZldmVudENvdW50ZXJzPSU1QiU1RCZqc1R5cGU9Y2gmY2lkPW5VR1pOUDRLeGxrcjh0RV93aWdiN2pYcXdiVE41dWRmd1dUM3VxcEZoeGRveE5HN0NtX25FbzFqZjRiUG9aTHRTOXh5S2R5UkpKY3BHYnBZTzJfTVFjMEZFQWJySFBNZDE2ZGVQekhZa3dnd3hydHkzaExOSXNtQmFnNWN4VlNwJmRkaz1BQzgxQUFEQzMyNzlDQTRDN0I5NjhCNzE3RkJCMzAmUmVmZXJlcj1odHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5pZGVhbGlzdGEuY29tJTI1MkZlcyUyNTJGdmVuZG9ybGVhZHMlMjUyRnZhbHVhdG9yJTI1MkZwcm9wZXJ0eS1sb2NhdGlvbiUyNTJGZnVsbC1hZGRyZXNzJTI1M0ZyZWZlcmVuY2UlMjUzRDY5MTg2MTRWSzM3NjFIMDAwNVdPJnJlcXVlc3Q9JTI1MkZlcyUyNTJGdmVuZG9ybGVhZHMlMjUyRnZhbHVhdG9yJTI1MkZwcm9wZXJ0eS1sb2NhdGlvbiUyNTJGZnVsbC1hZGRyZXNzJTI1M0ZyZWZlcmVuY2UlMjUzRDY5MTg2MTRWSzM3NjFIMDAwNVdPJnJlc3BvbnNlUGFnZT1vcmlnaW4mZGR2PTUuNi4y",
+    "headers": {
+      "Content-type": "application/x-www-form-urlencoded",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "{\"status\":200,\"cookie\":\"datadome=juJ6Oo3B4rfRu6zb1yCarlfiz8U1Oe8E12Z3qI8NZnxrUksirxuot77mpIjbkLLVe72K5KRYMteUWX8~S2kSFdz5Cte50Lk9n2Xzb5aL5w7_KEAxKT5m~O8USLDNrn8p; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "content-length": "234",
+        "content-type": "application/json;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:22 GMT",
+        "expires": "0",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 google, 1.1 33e036d6d8900b130219037836844f16.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "ImwFkkz0bFnpn7gTnlc586vzvYAmPeyuWDQA9cNUwOGHlvcDRtaDJw==",
+        "x-amz-cf-pop": "MAD56-P6",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://dd.idealista.com/js/"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "",
+      "content_encoding": null,
+      "content_type": "application/json",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "0",
+        "age": "553820",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "date": "Thu, 23 Apr 2026 06:04:05 GMT",
+        "etag": "W/\"4331650cb3ee2f3fc4f2d10c99156883\"",
+        "last-modified": "Thu, 23 Apr 2026 06:03:55 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 6facad9f7e9d7675fd5d35a1551a9ff2.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "a-7X8h6EZoSQCI8GyNShNQD2-UlAv7qUO_hBEtXLJLZzV2dquj617A==",
+        "x-amz-cf-pop": "MAD56-P4",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "Hit from cloudfront"
+      },
+      "status": 304
+    },
+    "type": "fetch",
+    "url": "https://st4.idealista.com/datalayers/idealista/vendorLeads/common/propertyLocation/viewConfirmLocation.json"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"responseStatusCode\":\"200\",\"settingCountry\":\"es\",\"settingLanguage\":\"es\",\"userStatus\":\"2\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:24 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:24 GMT; Path=/; Secure",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com//vendorleads/valuator/ubication/datalayer"
+  },
+  {
+    "body": "{\"device_type\":\"desktop\",\"event_class\":\"page\",\"event_name\":\"viewConfirmLocation\",\"event_type\":\"view\",\"form_name\":\"confirmPropertyLocationForm\",\"page_section\":\"propertyValuation\",\"page_type\":\"locateComplete\",\"response_statusCode\":\"200\",\"setting_country\":\"es\",\"setting_language\":\"es\",\"tm_datalayerVersion\":\"2.0\",\"tm_markup_isTemporary\":\"0\",\"tm_markup_owner\":\"SE\",\"tm_markup_project\":\"TM-4507: VendorLeads\",\"user_status\":\"2\",\"cp.utag_main__sn\":\"1\",\"cp.utag_main__se\":\"1\",\"cp.utag_main__ss\":\"1\",\"cp.utag_main__st\":\"1777479864950\",\"cp.utag_main_ses_id\":\"1777478064950\",\"cp.utag_main__pn\":\"1\",\"cp.utag_main__prevTsUrl\":\"https%3A%2F%2Fwww.idealista.com%2Fes%2Fvendorleads%2Fvaluator%2Fproperty-location%2Ffull-address%3Freference%3D6918614VK3761H0005WO\",\"cp.utag_main__prevTsReferrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"cp.utag_main__prevTsSource\":\"Portal sites\",\"cp.utag_main__prevTsCampaign\":\"organicTrafficByTm\",\"cp.uppar\":\"false\",\"cp.PARAGLIDE_LOCALE\":\"es\",\"cp.datadome\":\"juJ6Oo3B4rfRu6zb1yCarlfiz8U1Oe8E12Z3qI8NZnxrUksirxuot77mpIjbkLLVe72K5KRYMteUWX8~S2kSFdz5Cte50Lk9n2Xzb5aL5w7_KEAxKT5m~O8USLDNrn8p\",\"cp.lang\":\"es\",\"qp.reference\":\"6918614VK3761H0005WO\",\"meta.description\":\"¿Buscas vivienda? Economiza tiempo y dinero con idealista, el portal inmobiliario donde puedes comprar, alquilar o vender tu casa, piso, chalet, finca u oficina de forma rápida y sencilla en España\",\"meta.author\":\"idealista.com\",\"meta.pragma\":\"no-cache\",\"meta.robots\":\"noodp\",\"meta.viewport\":\"width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0\",\"dom.referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"dom.title\":\"Viviendas venta. Viviendas alquiler. Pisos. Chalets — idealista\",\"dom.domain\":\"www.idealista.com\",\"dom.query_string\":\"reference=6918614VK3761H0005WO\",\"dom.url\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"dom.pathname\":\"/es/vendorleads/valuator/property-location/full-address\",\"dom.viewport_height\":\"1385\",\"dom.viewport_width\":\"2714\",\"ut.domain\":\"idealista.com\",\"ut.version\":\"ut4.54.202604230618\",\"ut.event\":\"view\",\"ut.session_id\":\"1777478064950\",\"ut.account\":\"idealista\",\"ut.profile\":\"id-portal\",\"ut.env\":\"prod\",\"tealium_event\":\"view\",\"tealium_session_id\":\"1777478064950\",\"tealium_session_number\":\"1\",\"tealium_session_event_number\":\"1\",\"tealium_account\":\"idealista\",\"tealium_profile\":\"id-portal\",\"tealium_environment\":\"prod\",\"tealium_random\":\"0860810944628938\",\"tealium_library_name\":\"utag.js\",\"tealium_library_version\":\"4.54.0\",\"tealium_timestamp_epoch\":\"1777478065\",\"tealium_timestamp_utc\":\"2026-04-29T15:54:25.281Z\",\"tealium_timestamp_local\":\"2026-04-29T17:54:25.281\",\"js_page.traffic_source_url\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"js_page.traffic_source_referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"js_page.traffic_source_medium\":\"Portal sites\",\"js_page.traffic_source_campaign\":\"organicTrafficByTm\",\"js_page.marketing_transactionId\":\"es1777478065281\",\"js_page.userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"js_page.windowWidth\":\"2699\",\"js_page.windowHeight\":\"1385\",\"js_page.piano_collectionDomain\":\"col.idealista.com\",\"js_page.piano_site\":\"582065\",\"js_page.piano_load\":\"true\",\"js_page.piano_triggerEvent\":\"pageDisplay\",\"js_page.piano_level2\":\"028-idealista/VL_propertyValuation\",\"js_page.marfeel_load\":\"false\",\"js_page.clarity_load\":\"false\",\"js_page.pingdom_load\":\"false\",\"js_page.dd_load\":\"false\",\"js_page.hotjar_load\":\"false\",\"js_page.beamer_load\":\"false\",\"js_page.landbot_load\":\"false\",\"js_page.gcm_adPersonalization\":\"denied\",\"js_page.gcm_adUserData\":\"denied\",\"js_page.gcm_adStorage\":\"denied\",\"js_page.gcm_analyticsStorage\":\"denied\",\"js_page.gads_conversionId\":\"AW-1061695190\",\"js_page.gads_load\":\"true\",\"js_page.gads_transactionId\":\"es1777478065281\",\"js_page.ga4_load\":\"false\",\"js_page.af_load\":\"false\",\"js_page.fb_load\":\"false\",\"js_page.tk_load\":\"false\",\"js_page.bing_load\":\"false\",\"js_page.rtbhouse_load\":\"false\",\"js_page.criteo_deviceType\":\"d\",\"js_page.criteo_load\":\"false\",\"js_page.outbrain_load\":\"true\",\"js_page.outbrain_marketerId\":\"00102f801aea4aa0a21e30487ffdf4c4e8\",\"js_page.outbrain_track\":\"Visita\",\"js_page.taboola_load\":\"true\",\"js_page.taboola_taboolaId\":\"1420147\",\"js_page.linkedin_load\":\"false\",\"js_page.datalake_url\":\"https://integration2.idealista.com/tealium/client\",\"js_page.datalake_load\":\"true\",\"js_page.tealium_collect_load\":\"false\"}",
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "",
+      "content_encoding": null,
+      "content_type": null,
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "https://www.idealista.com",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "public,max-age=3600",
+        "content-length": "0",
+        "content-security-policy": "frame-ancestors *.idealista.com;",
+        "date": "Wed, 29 Apr 2026 15:54:26 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+        "via": "1.1 varnish",
+        "x-cache": "MISS",
+        "x-cache-hits": "0",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-served-by": "cache-mad22047-MAD",
+        "x-timer": "S1777478066.235473,VS0,VE5",
+        "x-xss-protection": "1; mode=block"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://integration2.idealista.com/tealium/client"
+  },
+  {
+    "body": "{\"placement\":{\"address\":{\"streetName\":\"Arrayanes\",\"streetNumber\":\"7\",\"town\":\"Madrid\",\"stair\":\"1\"},\"coordinates\":{\"latitude\":\"40.39331449261345\",\"longitude\":\"-3.743663074834389\"},\"provinceCode\":\"28\",\"municipalityCode\":\"079\"},\"features\":{\"areaInSquareMeters\":94,\"typology\":\"HOME\",\"rooms\":3,\"bathrooms\":2,\"pool\":false,\"specificCharacteristics\":{\"lift\":false,\"penthouse\":false,\"duplex\":false}},\"cadastralReference\":\"6918614VK3761H0005WO\"}",
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "{\"result\":\"CREATED\",\"data\":{\"propertyId\":\"4435df0e-e42e-45b2-a794-355d43915acf\"},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:30 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:30 GMT; Path=/; Secure\ndatadome=wul9e_01zvG6v7Byo4_T0EDCM3Do0U4eZ2yC_5AaNsT1GnC_KQIlZv73JbnVrirqrghlNoJLYccblf5AQ5tFDSpbbLIe0819kovdTakzFtmcUQLva2Sr03xmKO9jh4fA; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 201
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/property-save"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/interests/4435df0e-e42e-45b2-a794-355d43915acf",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"isBanned\":false,\"isLogged\":false},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:31 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:31 GMT; Path=/; Secure\ndatadome=qA8uJdf9Sk056rOC8RJE9ycjjq~p0ghXNnfqJ24O~pt2KxG3AOoo7_sdE24~OWYhcA_tRoL4pxLrhQEiTOVZcqqIu3stX2Dd7Iiq8TM82IqEQLHjEB6iHGXiGfjGw~to; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/logged-user"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/interests/4435df0e-e42e-45b2-a794-355d43915acf",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"requiresLogin\":false},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:31 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:31 GMT; Path=/; Secure\ndatadome=kBKToC0QWeXesmkkiYd~7xZrtE9gcdhAqISzKapgqEocdB2e0KNa4JUR9aI14OAwiyLlYXaZ9L2~nxUN4BL59hYpBNiLHUBmqpPdnZWtcQCXFVloVQJrhpNL1jJL0Voa; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/property/4435df0e-e42e-45b2-a794-355d43915acf/is-user-login-required"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/interests/4435df0e-e42e-45b2-a794-355d43915acf",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"responseStatusCode\":\"200\",\"settingCountry\":\"es\",\"settingLanguage\":\"es\",\"userStatus\":\"2\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:33 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:33 GMT; Path=/; Secure",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com//vendorleads/valuator/ubication/datalayer"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\n    \"cmp\": {\n        \"purposes\": \"${cmpPurposes}\",\n        \"vendors\": \"${cmpVendors}\"\n    },\n    \"device\": {\n        \"type\": \"${deviceType}\"\n    },\n    \"event\": {\n        \"class\": \"page\",\n        \"name\": \"viewPropertyValuationForm\",\n        \"type\": \"view\"\n    },\n    \"form\": {\n         \"name\": \"propertyValuationForm\"\n    },\n    \"page\": {\n        \"section\": \"propertyValuation\",\n        \"subSection\": \"${pageSubSection}\",\n        \"type\": \"${pageType}\"\n    },\n    \"markup\": {\n        \"test\": {\n            \"name\": \"${markupTestName}\"\n        }\n    },\n    \"response\": {\n        \"statusCode\": \"${responseStatusCode}\"\n    },\n    \"setting\": {\n        \"country\": \"${settingCountry}\",\n        \"language\": \"${settingLanguage}\"\n    },\n    \"tm\": {\n        \"datalayerVersion\": \"2.0\",\n        \"markup\": {\n            \"isTemporary\": \"0\",\n            \"owner\": \"SE\",\n            \"project\": \"TM-4507: VendorLeads\"\n        }\n    }, \n    \"user\": {\n        \"hash\": \"${userHash}\",\n        \"mktHash\": \"${userMktHash}\",\n        \"profileId\": \"${userProfileId}\",\n        \"status\": \"${userStatus}\",    \n        \"toolsService\": {\n            \"geo\": \"${userToolsServiceGeo}\",\n            \"role\": \"${userToolsServiceRole}\",\n            \"software\": \"${userToolsServiceSoftware}\"\n        },\n        \"type\": \"${userType}\"\n    }  \n}",
+      "content_encoding": null,
+      "content_type": "application/json",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "0",
+        "age": "1440288",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Fri, 17 Apr 2026 08:03:35 GMT",
+        "etag": "W/\"9943e66ad7783d44c5d917eda68ac95a\"",
+        "last-modified": "Thu, 17 Jul 2025 08:59:17 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 6facad9f7e9d7675fd5d35a1551a9ff2.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "0k7bxOl56MgbL2gfxopBPXd9Ch3PJJBpzOCopmJ0HGS1PmbG6A58Tw==",
+        "x-amz-cf-pop": "MAD56-P4",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "Hit from cloudfront"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://st4.idealista.com/datalayers/idealista/vendorLeads/propertyValuation/viewPropertyValuationForm.json"
+  },
+  {
+    "body": "{\"device_type\":\"desktop\",\"event_class\":\"page\",\"event_name\":\"viewPropertyValuationForm\",\"event_type\":\"view\",\"form_name\":\"propertyValuationForm\",\"page_section\":\"propertyValuation\",\"response_statusCode\":\"200\",\"setting_country\":\"es\",\"setting_language\":\"es\",\"tm_datalayerVersion\":\"2.0\",\"tm_markup_isTemporary\":\"0\",\"tm_markup_owner\":\"SE\",\"tm_markup_project\":\"TM-4507: VendorLeads\",\"user_status\":\"2\",\"cp.utag_main__sn\":\"1\",\"cp.utag_main__se\":\"2\",\"cp.utag_main__ss\":\"0\",\"cp.utag_main__st\":\"1777479873360\",\"cp.utag_main_ses_id\":\"1777478064950\",\"cp.utag_main__pn\":\"1\",\"cp.utag_main__prevTsUrl\":\"https%3A%2F%2Fwww.idealista.com%2Fes%2Fvendorleads%2Fvaluator%2Fproperty-location%2Ffull-address%3Freference%3D6918614VK3761H0005WO\",\"cp.utag_main__prevTsSource\":\"Portal sites\",\"cp.utag_main__prevTsCampaign\":\"organicTrafficByTm\",\"cp.utag_main__prevTsReferrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"cp.utag_main__prevEventView\":\"028-idealista/VL_propertyValuation > propertyValuation > locateComplete > viewConfirmLocation\",\"cp.utag_main__prevLevel2\":\"028-idealista/VL_propertyValuation\",\"cp.uppar\":\"false\",\"cp.PARAGLIDE_LOCALE\":\"es\",\"cp.datadome\":\"kBKToC0QWeXesmkkiYd~7xZrtE9gcdhAqISzKapgqEocdB2e0KNa4JUR9aI14OAwiyLlYXaZ9L2~nxUN4BL59hYpBNiLHUBmqpPdnZWtcQCXFVloVQJrhpNL1jJL0Voa\",\"cp.lang\":\"es\",\"meta.description\":\"¿Buscas vivienda? Economiza tiempo y dinero con idealista, el portal inmobiliario donde puedes comprar, alquilar o vender tu casa, piso, chalet, finca u oficina de forma rápida y sencilla en España\",\"meta.author\":\"idealista.com\",\"meta.pragma\":\"no-cache\",\"meta.robots\":\"noodp\",\"meta.viewport\":\"width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0\",\"dom.referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"dom.title\":\"Viviendas venta. Viviendas alquiler. Pisos. Chalets — idealista\",\"dom.domain\":\"www.idealista.com\",\"dom.url\":\"https://www.idealista.com/es/vendorleads/valuator/interests/4435df0e-e42e-45b2-a794-355d43915acf\",\"dom.pathname\":\"/es/vendorleads/valuator/interests/4435df0e-e42e-45b2-a794-355d43915acf\",\"dom.viewport_height\":\"1385\",\"dom.viewport_width\":\"2714\",\"ut.domain\":\"idealista.com\",\"ut.version\":\"ut4.54.202604230618\",\"ut.event\":\"view\",\"ut.session_id\":\"1777478064950\",\"ut.account\":\"idealista\",\"ut.profile\":\"id-portal\",\"ut.env\":\"prod\",\"tealium_event\":\"view\",\"tealium_session_id\":\"1777478064950\",\"tealium_session_number\":\"1\",\"tealium_session_event_number\":\"2\",\"tealium_account\":\"idealista\",\"tealium_profile\":\"id-portal\",\"tealium_environment\":\"prod\",\"tealium_random\":\"7830112357294925\",\"tealium_library_name\":\"utag.js\",\"tealium_library_version\":\"4.54.0\",\"tealium_timestamp_epoch\":\"1777478073\",\"tealium_timestamp_utc\":\"2026-04-29T15:54:33.362Z\",\"tealium_timestamp_local\":\"2026-04-29T17:54:33.362\",\"js_page.traffic_source_url\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"js_page.traffic_source_referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"js_page.traffic_source_medium\":\"Portal sites\",\"js_page.traffic_source_campaign\":\"organicTrafficByTm\",\"js_page.marketing_transactionId\":\"es1777478073362\",\"js_page.userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"js_page.windowWidth\":\"2714\",\"js_page.windowHeight\":\"1385\",\"js_page.piano_collectionDomain\":\"col.idealista.com\",\"js_page.piano_site\":\"582065\",\"js_page.piano_load\":\"true\",\"js_page.piano_triggerEvent\":\"pageDisplay\",\"js_page.piano_level2\":\"028-idealista/VL_propertyValuation\",\"js_page.marfeel_load\":\"false\",\"js_page.clarity_load\":\"false\",\"js_page.pingdom_load\":\"false\",\"js_page.dd_load\":\"false\",\"js_page.hotjar_load\":\"false\",\"js_page.beamer_load\":\"false\",\"js_page.landbot_load\":\"false\",\"js_page.gcm_adPersonalization\":\"denied\",\"js_page.gcm_adUserData\":\"denied\",\"js_page.gcm_adStorage\":\"denied\",\"js_page.gcm_analyticsStorage\":\"denied\",\"js_page.gads_conversionId\":\"AW-1061695190\",\"js_page.gads_load\":\"true\",\"js_page.gads_transactionId\":\"es1777478073362\",\"js_page.ga4_load\":\"false\",\"js_page.af_load\":\"false\",\"js_page.fb_load\":\"false\",\"js_page.tk_load\":\"false\",\"js_page.bing_load\":\"false\",\"js_page.rtbhouse_load\":\"false\",\"js_page.criteo_deviceType\":\"d\",\"js_page.criteo_load\":\"false\",\"js_page.outbrain_load\":\"true\",\"js_page.outbrain_marketerId\":\"00102f801aea4aa0a21e30487ffdf4c4e8\",\"js_page.outbrain_track\":\"Visita\",\"js_page.taboola_load\":\"true\",\"js_page.taboola_taboolaId\":\"1420147\",\"js_page.linkedin_load\":\"false\",\"js_page.datalake_url\":\"https://integration2.idealista.com/tealium/client\",\"js_page.datalake_load\":\"true\",\"js_page.tealium_collect_load\":\"false\",\"js_page.prevPage\":\"028-idealista/VL_propertyValuation > propertyValuation > locateComplete > viewConfirmLocation\",\"js_page.prevLevel2\":\"028-idealista/VL_propertyValuation\"}",
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "",
+      "content_encoding": null,
+      "content_type": null,
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "https://www.idealista.com",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "public,max-age=3600",
+        "content-length": "0",
+        "content-security-policy": "frame-ancestors *.idealista.com;",
+        "date": "Wed, 29 Apr 2026 15:54:33 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+        "via": "1.1 varnish",
+        "x-cache": "MISS",
+        "x-cache-hits": "0",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-served-by": "cache-mad22047-MAD",
+        "x-timer": "S1777478073.489808,VS0,VE3",
+        "x-xss-protection": "1; mode=block"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://integration2.idealista.com/tealium/client"
+  },
+  {
+    "body": "anNwbD1hSS10cUp1SHRkcDBMREpNa0JSQ0tIVHBIbzlOTG9kXzdWSTdLSlNaZnVEZnRBOTZVX2gtc2ljTDFlWlB4cV9YNFFuNmJQd3hzLTBESkNLUlJNNmE3d21WUGNyemRNbHhNNlFldU1oZVJZQUNFbWxOaXVfYldWT3lXYkFxclpMa0NkSmJhTHgySEl3c1lyS24ybnMtTWpGUmo5RVJ2X0RwdXNDWEU3SW5hVXdQV203ajdyOTZWRXFxVGkxWkpaZGZjeG9PQ3RZLUYwRzJxZlFKeW4zTXlfZWFBT2c0anZhTFJCVkN2cGgwQ0tWX0EzOEgzWnVxRzZFSkZFUE81c3Rlb0NqRjRnbWtuX1IzR0ZKY1NmcDk0MDJuby12Q2VST0NpOXZMYmpFOEJYbzNaZXZQWWhfazQ3dTFtek9SNXdfVy0zSUc5c212dVFzLVNGTTdqT2ZnN0NXMUZCR09zZ05CMExNUUR5RFpMSnZhWnVYQ0hCRkpPVVJqM3dfQnlUOHk4bGUxTkFqWGZqYnNUNGJNRHg4LU5sSTMwcGhYaXRpWDBYMVVqZTJKTW15V3QybWZOZ0x6MTNUTVNBU1QyVHRjZmh6T1ZSdW1GZjhFWnRxRUJIcUxMT2RyQWh1VzFIUXFkdFloYVBaNmpmQy1IazRzSG0wcDhxcWxfbjdUYUsyamtNcmhzdTZWalA5cW0xOFdDWW1nTEd3RmtXem10VVhiVnBRUWt6akd6QzQ5MURNV1lYSkg1VDl0SDduMDRfZDlDVlRxYmJIV3hEa0lTZGxGVDMzMFhpalNqNFFDeEFjMDNfUXB5UnVKRmQ3MDR3TTlQNFdydU9KMGlwb2VpSi1YRlUwMURubWRwNEhQYkpOZnQ1dlhzcWFvNmRSWEFxUGE3RWtNMndRNkMxUGE4OFczVWZ1QXFQYUpvM3JZWlVGeDliNTU5ek5xMW92T1lEMFktRVk5a3I3OUVYVGtUYk40MklfVkI1V21RVGgxOEJ1UC10eXQ0UDhoWElxaV9qU2JRcFdDZWdNQm9STXVldy1yaG9temJrem8teWxUV2J5bEg5U0NWWFU0MTJIeXQyWVJVME5UTDBNRDBHekxXakNZWFNONU80bkZBUXBEZ1FmQXdrdGppWDdFaEFPZ2RuNndGR1JoTjdGdHJ1STZGYkZVZmRLbUM3Yml1ZVRjMWNLWS1RNHo1VTlEeU1mY3J4dDlwSy1fLUJHZFBVTTViUnByYWdqTWRMRTl3S1M0X29fZU82TklUV05aY3RFc0tVM0R6b2VHc1FjaFQ1MFVKX2FXQjZPcDZrc3VqZkg4Z01MVHpSRmU4V3lMSDVuanRLWWhRWFlBei1kbUlqTkU0angxaWJLVDJ0TEVFOW1rME9MWjA1U1pBbF9CalE0NFZVTGhKLU85OW9rcGJfa0dod2FZQjYwVUVub3RZWDhBNEVad3VOTkxoaC0zUXJxb2ZBaTUxZ2NiNDZ2ZzdlUDVrOC0xTVpLUmNXOW05MjgzdlNZQndmdjU4MllwWUZEdm92MnJzc0RuUDcydVNPTmktZ2xscGs1eXpvMENjQjh1bVlGLS1kT08xUHdDZzQ0cllzdklmOG9HQWljUHVaRWtsYzJLZjU2NFMwRWUwUV9SVXRiMkpLVWhVZUk3bjhGbXJmZGdzVFRjdlJCMnBWSTVVZlRTRzZCWC1keVBvWG5YYTR4TlZJbmRCQUhKd0U3c0tHTHczWEt0WTlOSHFEUTRHZGhuRlpGZHdLV1psZllqclIwWFRaQmxxUnIxc3hWQmRlRGt6TFVKNE0yZEE3LURWWnRuTllrTjJ5MERHOXBLeDBuczNwTGpOVEsxemluS0RWbDZSNjNsOHlOSWtORnBFRFB3aU1la1JBUVg2M3EtRjhRTjJIZ3R6OU9vQlBLZWpkUVcweHF6ek5HQVg5VEFjMzhxR2ZRN2k0QnBjSXpIZ3pMQVk3Y1dNbzFWWWxTNUlQU0FxbmpNWGxpV2lERDRNM1VTUHhUdVVGV3dnbG5pU3VLT3pPUTcyRWxWQThtM3NuTEtOM1NoeUx4dU85ODVxOWw0R3N2OFBLLWJDN2Fvc2JFcDRRZ2tmQmxNV1hmTzZUdDlwdzdEdEVHS1YwdjlJcHJfRHRUWDNZRjl4cVhjVEpmMmFKNTNraEEyT1k0UkxqbmszeFM0V1lqMjF4bzhhbEplUlZTcWhwUVJtYnRLSUliVzNDYzgwUVlIal93X2l3UmNXVEFXR2dPVVA4Q0xZVGlRRnJQZVRiNUt1NWVHRG1oYkZOTG9nLXFkZDdmOEptYUZTOWZmSHIxUGl5N3J6TXI2MDVCc0pqSHA4R1EwLUNuVk1xRmM2UlJ1S1FmcEE4SHUyREg2YjhONkVpMVlrVjQtSTRPaGdRWGI0aFZDbzdvcnhnZDFnUmxFX0FZY0JjdndOV3ZDYlhYX2xRS2VMSENuV3V4a0xscUh2MV9KeG9oai1uNHJYa0I1aG5PSjN1dEp4UDM2RXdlMnU3c3p1QVNYcVMybURwVDcwbE90N1QyS05jZFJoc3g4R2VySE5fQk9IUUZlNHJMOUJmOU1ocE82X3k2WW1xc0EzQ0tRZl9iUHdmUnNpZFBkQkZSOEF5UWI1b2g1cGRiMV9pd0VTUWFYZkVaN3FPb051RThWQWhpSzZnV3ZYU294VklGTEV2RmxjbnF2clAxSTBnRUg2VmpsSWRudGIzUTlKaTl4QTNPNEdHT2FnRkQ4NXk2V09RY2VZMF9zX3habExLUndqV0N1b2Q4ajctUW5Ba00ycHc2Y2FXRlJaR2JOME92QVpTRFZ6Q2ZxNVlwNFF3LXZkTW1aeVdhakdUMzBYNzRMSnJlSFJISThia3Vuc0xtZDBNTnN2Q2tUVVNNZ2ZfYnktSDktclpUZEZYM05tdVBVOGJORHBBSXY4Uk84Y3lJMnBNSDZieXhmMEhoTlVSTjcxOGg4dnUxVGtabzBSN0hmZTdHbFBCRFRPb0lJVjBucXo2aVFDRnExcXY3ZGxVRlQxbm5sNWQwTE9zU20tdlhhQjRBMzlmaUJBMTlROEdUNV9mWk5fb2dRQXhCN3EyN1ZHSTVWMEdNLUkzT2NqWm5hUi10WmJuVWs4RFU3Z3ljeHBMeHAwaFZhMkxva1FEOGdubG12U2ZNd2ZpTTFjVnp3X2ZaRGtHVjFJWW1HVmptcXlFN0tTQjJGUWhtc29vVGhxTS0tY0NoV1d2RGw5eTVoNGstVnBmaVpKNHVQeDlJQzlJc2FndU9vTi1ycUJDQXN5UlhlWDc0UWpwdUxBS3RpVTRiSWRjaGdWczVlRWtfaUQ3RVJMX3o2ZS1Bd1c5R1VUNFViN1lqYm5LOGw0TThXUDZ5UHBFaWVRMEZrS19SUWxFcUp3UlpvU2J4LU9QLVdzZWJBb2JVakFNQk1KalZRNUZCRXJlNDNhcFRyenFCMEJ4M2dTOU1EeGRsRE9pbEtPY3UtaUtlN1VVUXRqeTgwdU4yUWZjN0VMYXozQ19BSENvS3VIZHJHUG41ZWZSc3pQZE1oODVYeDVUUVlpNXp5MDFNNVYxVFloWUE0dnRIeWJiZF9USzVPcWxHOGRLdHJwcWJMTG4zOV82WUpuN2h6MkJhazJHaGtTV25jTUtuOWNlMjJWc1doNHRVbGZkLUpaMVUwOU1nbHp1VFF1emZZUTFONmt4eDVVWGdPMi1EYWhsb0pYNFl2WHQ0TUxEN21ydUpFYnNmeG82ejdBQTNxWElIYTN1S1JTWHlld3FLUXJ4ZEktU0l6ZXFodW0wZTdjTFUweTFIOGx5MVJTS0pqNXlEZDI4bHFZdURGZzJkejdsd0w3TGtOMkNucHlzaE9LaFJFa28waWljVTRsTnAyRWN5VlNmQ09KWDRWMGZXUFIwcjZMSXgzNzFlSi1IbkpJR2szMDFOZUVlYVlGb01XT0VPX25aSk90SV81STF2MlEyLWJtaGlCeGJ0VV9nZ2tReHg4NllnTWV1TDRkX3BsTldWamJoNk5HQ192NERpeHU3R3ZBQ1NTMlRleWl0ZnZ3blpmRHl4RmlVZFczWE5IeURtYXJMUE1abGw4NE04T3AtZVVJUmVUdFhjVC1ud1Y4VUxzVWJON2Z6ZldLanEwVDA0M0RpeUFrVzU2TWZoNVg4bG5fcy1GWVdLOEhZT21LQUVqRWNwWnZ1Y2REdDBDZFdvZVdFcUhralM4UUpnT1Zyel9Genhqc2Z3WDlWNTN6eDNuZmJrTkZvcndIT184d0VHMnVaMzdaTlJhanlNeEtneUxsbzFCa3FjWkVDUEZhQlNraEhQYzNwT2xrakxfNl92US1Fc04tNUlkbTdkVXBDYVJLNnFHYlE5VXFsdi1HUlpFZjU4RWU0YTNvR0RDWVBPWkQwZW1fdFYtOW82Y2VzQm9LSDd0Nmw0TXl5RXJ3cmU2QWRtRkZsbjd2Nno1VFdRS2xIc1d2QmdzWXBqbVo2MHAtVWhLS3R5N0VteGlmYktyd2l4aTBVYVlyZ25vUXJPT0dVb3VqakNlWWR5SDkySEVrbFJwd1h5Rzc3TFVkd2R0U0lqTkc1cnRMYlNnT1NhV28yRUdfV1IzLVhIMVdjS284V2tBYlU0eW50SW5pcl9GU1lRQjFFM1dzYXh4VFI5MXlZUS1yNVZOQzY1SDRiNXc3bjdKdHZVUlI4UUZUOWtmYWVuQnd6U2VZc0ZDMGdRdWh5cnRiVTh1dkp0QklZWlNOYzQ0TEF1RHVWeXRITnNhYWh1OS1laEd1VzlHb3lQa0xmSFBGWHBNSFdkN0ZuMkpOZUpnT3Rya3FIOWxQX2hFOXJMUVVnT1JmOHI4RWZWcTd4Um8waXVtZHRnSGg2WTdHMFpHZEQ1cnJ2bFBYTWN6Q2dUVjc3WFFtWkN4Q0htbTVsQ3pzaFFCOFVEOU1Pd3ZoN2ZCbF9JdzRQSHljVG53cVpNYjFiOGV6RnNyZ09JUFFuQnZlRTdkeS1FRDgtcmRyVXFpODJldWJXeTBfQ0k4ZGRobjJnY2lLcUwyaGI0bEdBTEhNNkt1ck5pLTZLNnpXSEtrRnNVdkF0bl9CZ1h0OWRrQUdaT1FfM042bTZFVlRUTUVVcmNPRGlyUVZYelMxdDZaNlY3TnZvc1A4MGlzWmdwbGk2aVN3TDBZUGVNVWRGNnRlS3dDV3ViYzBWdnB2eDJObElGNjNrcWdhQ3Z2M2FFWjFRckhhbHNVUExWaDNyZlBScWdVRTRmOHNGb2kwVGtDc0c4Z1d1ekxyYWFBaVFJbzF5dUxETm9RUkw5YUFaMlFfc3JHZ01rTWpETkRyNkRBRkdOT2Y1VVI5UzZQWU1pTFdCaTNnU0dRRkRYdTdmMFFHcDhScGlVbmU5VVJSNTZuY1RSMjBZVmFaaFctUS03bjFReTVJcU55R0lfcFp2Sk4xOVEwVDUxSHNEQVo3QnhfRkdtOU1yUGk4bkRJSGRpcS1JZkt5QTBOeU5wOHNNYkc5N3pTdWktTFZvZVozaUVlN043endJZzZ4cXJhWUNWTDFCUzhULWR2Zk5fRnpIbUl2RVp3V0diejJ3eEIzdWxqVmRnbGNMTW9WWk1UbkJZMllWbXJHNDhDM3JCUXdvNHdOWWlYNXpnT0dVeDN4aGlsX3Q3NE9qZS1XYnR0bWY5bDBLODlvdmVQcm9iNG9KT2plUy1PaGRrSmZRcEFaLWd2dFpac2tNS1pCajlydmMxZ0tkX05za0ZiNGxaT0lxOTVqRTByT1pyeXk4cFF3ZkpRMzRaTVJiOEp4ZnlYd1BTVnFYMU1wQ092NENmSU83ZUwydFlYX3JJSHRFaVk3eDE0YVFLbWxkMjVDby1xN1VVdjZuTU5vMGkyZGJnS3l5OWJPZUNwTm9NdnBCSkxnMEoxdlgtNkg1SnNuQmtoVndaV0RyNC1Yb25WcXZ6TjFxMHYydkNwRHQ4ajRrYTJUZUZVaEU4S043VlhCV0dFOFpzbXctUUwwVDVPV0VFMnkxSGlmaGFseVoxRkxXRzFuZlYyMFZqckJQSzg0Sms5UEtTOWlGN0puSEhKZjZhN0daWUV5WE1PWno2Q0xoWkFqQ2wwdnhJdDVuSmJzMjlyRE9xTEpqeFpnY192ejlKcEY3elhaMU52N2Z2M29ndUdGeWJoXzhqbkNDWXVBNkRvcVpRQVFQYUg3dUpiRGppMW1IYVBWelFfWkRSSDBLMFBXUVpJYzZBMVJjWW5aVmk2SVRTWUNlV082aFdKSkFTSkR4ZXRFOWVfQllUV2lfX2RrTlpGeGptMDR4X2ZzX0FpdDBod3hINlpCdVZtVjJIRmJRSXlfeVdYZFdmb0V4RXJCRHR3YkFOUWM3d1dhYUpkRllZbHRqOGt2WlJ4RzZLaGhmVTRWcGU1ZlFab0xOTkUzX01ZdEh5MTk0RmZpQ1NwbFlJdGFXaHhiWURVOWtsbWE5QmRMaF8xOHc3Z050VzliaEN2eTc2QXJ2V0pGeF9Dd0dkVDVOQXFRaTU2RXNEeW14ZHRUcDlRck5vdDZoVkZQb3RnaHowc1FJeDZ4UUtuVmdYY0MwNlVGVHIwTTFPZlBBLXp6Z2VjYWMzUUV4RGZKcGc1c3N0MExRNFF1VmhnOHhva1Jib0pKYXJadUR4dUhtb1N3NGthbk40U3ZlX21NYzU4TXVkcC13a0dFLVA4LW5ldGljWFJFWDJNWVlmUGEwOWFEa180UW5YMWpwVFRIbmZmRkdDSGdvclUtb3JxalBoSlJPVG5PZzVsdHlReVZ2Vko1bDRCTGlnV3M4TF9kMUh4X3FGTVVNQ2lLaDJ1dmNNRmE3aXZQdHZReFJJazBTUk9GcEtEckhrU19mZXp0UXZ0c3IwVFM1STZGek1WVTViRXcyZi1vTmxodmJxaWVISllobUFJZ2N0UndQejhvb1ltb0xjSUFxYjFiV3JUR1J1Q3dtSHJPRDZXT01sc2lodGdFSmRkdXJsejdQbmxuUkxMVmNUc0hZTUVRZ2tNeDFqc0pzcmZNWV8yXzEtN180TDBLWjlyeTZOZzVlSjlRT1REODF4QzNVWmtHM3RuMl91TEhkdnU2QjdwU19mUUMtQVJ5YzhnR0l6VTByM2l4Rjg3SjdtcGoyekFGR0xNdmJ4UlhlVmJQWUxERkQ3RGt0ZEVBaXhkNFpjTnJuWWtCeDdHaTZkblRlaWpnQWNheXdYUDlqWUp2eWExelVwa0kyY1hWTFFSampJdUswUnNPVmhQWWVGQmVvck82NmI4VVVhajhkV1RUQ0xPai1yWThnT3ZzOXItYzVQbW1Edm1Zdzd5WFh4UUxVNmRkT3R1S0pEVGRGVUdHQmFPNW1QSE9LUjNtUC1mT0k3cE5oaEVGekVBRHhaTDJ4bklsd2R2eEFwYW9WeHJiZllLYU5oaGJ5NWRYTGNiZmVZMmFFcmpCUFJPcXNEOVpaMGVCVVFMSGs2YU5BRkw5dlJvWmVvT2g3a01TYTJKWm00MVNGMjZ6d2dCQnA5ZEdLRlp3U09PSFZDb1ZxYUJWa1U2QmJFb3o4YjlmcW4zRWNrTjhTcTVvRHhQYkF5T2F4SnFVcmJzQmcybVFEVG9TdTM5aE9iSWlieGRXWk5Pay1RSDFmZ2RSSm9aTnZxRUx2WlppblR0ODltWkdnYTJNOWF5UHA1dG9kMXFhcmpDcU5hamhVSlpIdllIbFZBRjd2anItaGlwa1BOckw4dTRvZ0xPUDJKcUFSUlN6c09zSUIySmhHUEZoSVp0VFFPRmpuQ01DWnFWM3FDX0toVXlScnFMZThXOXZLWDVaSW9fYkl5LXB5Zld6cWtIZjB5MXVITUp0a2RxRlgxaWdZd2x0WkFxNmR0SW1QcFlCV3BwVU43cTFQcTgxdFBkQWJGMTRmNGRtWWxxeWc1SlFGODNuVjRXeXBBcGFLQlpod0k4YUFmY0Nxb2YteHpkSzBDVXc4andQUkNJZ0tJVnJKNjBqVVk3bEc2STdpZ2RqcWFia0c3aDdaSFhaUm44TWJ2azNqRFdrWHFLbmhjOU9zQjBBVVhNNHNkRnhnelVrYU41UWZ2SmVPNU0wSThPdW9BeUMzelJQWXZxajlNbjhPYnBfbndqY1JOQWxnaFhzRmpRc0NqR01OQmw2MmFDWXQtSkV3bDZLd3VjcTY4REd2OFp3NnJPSVdOc2UwUFJzUWp6U0lPWFhrWkJCNTZmOFdrZ3FxMkZLUEI1YXEzekNtWEd6SEZ6V3YtdHFfUE5QVnRhZnlqYUI2ZWVCTnJaX0l2TEtKTTJjbVBYdGVFSXRqSjItcVpISU9IU1c4M19BMEtNOUhCZWpjZXc1UHM3NUtHRFZLYjB4Mlljd08yWE1vVnRGSVFsSFQ2X3dqNFdERjZwS0lQb01LWjFod1dRNGhsRVhBbzBqdEFmWkxhZmM1b0l0bTA3Z3puQm5kNS03ZnAxTlAwMEZvczhUcUlxa2N3WlZYTHJreFB1czNhUFZjaXh1djFYaFhZbnN4YmRlMjFvSWpBTXJIZkdGRzZtLXpRT0lYNFBTbUs3V1lqc0VnYlRoV0F5Q2RsWnBLb0hieXhGbkktcDk3TGloUXV1R1VFVlNjRU81MGIxMmtMQ1hfU0NLQ284ellsdV96UUdMamVGT0ZaLVJWZVZvYmxtQ0hnSHF6Y3lrNk5QQ1BqTl9VTUV4VmRGTVZvMG9PanF0bW5seXdSUnFXMFlIR2poVjJBRkM0VE1BVXdfSGFYNDVvNV9lTVlfM1lQOUN0ZW5qSGxsQkJ3V21XNUpsWGR4R3BYWENqU0w1emNobnFhQkVJa3ktUjduOHkteGx1dl8yd0NaVDhacWNXeldZaVhMc0hBUkhhM2FTZ05uQW14Vm5OY0JMcXJTY2pTSWlFYlJTMXdDVVNjMnd5Z1l5UmlwUjZsY2xwQjJXNUN5QzE4bk8yVWlqS1FNQkI2eXc2R3FMQWpxRjdhZDREaGc5eHZmckVvNUV5bjctQTQ2aHVUTVpwVmE1ZzRPam84NDYxZTFlZzN5QWdSbTZoUmZkdlE2UnZIMU8wQXhVVTI3UG4tMm5PMTZYbUYzV3lLSzlOR05qQjE3NXBjMGw3MjI0RnhMNi13bUVZZmVXUDNlSGp6MG1FcUpOSVdWeGFRVTB2X0tJSldGOXU0ZVZQUzBMQlBFdHQtWHo3aFZ2T3ozTkp3clJKMzJDcTdaTWhNMTlUSzhFaWxJNHVzUG5ORzVsS0ZUcUUyTkhvNzNURWhNY0F1YVE2bERvOHZnMklDdmRTSmtjbl9sZnBHVnp4Y21oSExvQ3RNek5sLWhiTW1JNzdhY3AwRER4clItMFh1SmtUZGZZbmJmeHQmZXZlbnRDb3VudGVycz0lN0IlMjJtb3VzZW1vdmUlMjIlM0ExOTMlMkMlMjJwb2ludGVybW92ZSUyMiUzQTE5MyUyQyUyMmNsaWNrJTIyJTNBNCUyQyUyMnNjcm9sbCUyMiUzQTQlMkMlMjJ0b3VjaHN0YXJ0JTIyJTNBMCUyQyUyMnRvdWNoZW5kJTIyJTNBMCUyQyUyMnRvdWNobW92ZSUyMiUzQTAlMkMlMjJrZXlkb3duJTIyJTNBMjAlMkMlMjJrZXl1cCUyMiUzQTIwJTdEJmpzVHlwZT1sZSZjaWQ9a0JLVG9DMFFXZVhlc21ra2lZZH43eFpydEU5Z2NkaEFxSVN6S2FwZ3FFb2NkQjJlMEtOYTRKVVI5YUkxNE9Bd2l5TGxZWGFaOUwyfm54VU40Qkw1OWhZcEJOaUxIVUJtcXBQZG5aV3RjUUNYRlZsb1ZRSnJocE5MMWpKTDBWb2EmZGRrPUFDODFBQURDMzI3OUNBNEM3Qjk2OEI3MTdGQkIzMCZSZWZlcmVyPWh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LmlkZWFsaXN0YS5jb20lMjUyRmVzJTI1MkZ2ZW5kb3JsZWFkcyUyNTJGdmFsdWF0b3IlMjUyRmludGVyZXN0cyUyNTJGNDQzNWRmMGUtZTQyZS00NWIyLWE3OTQtMzU1ZDQzOTE1YWNmJnJlcXVlc3Q9JTI1MkZlcyUyNTJGdmVuZG9ybGVhZHMlMjUyRnZhbHVhdG9yJTI1MkZpbnRlcmVzdHMlMjUyRjQ0MzVkZjBlLWU0MmUtNDViMi1hNzk0LTM1NWQ0MzkxNWFjZiZyZXNwb25zZVBhZ2U9b3JpZ2luJmRkdj01LjYuMg==",
+    "headers": {
+      "Content-type": "application/x-www-form-urlencoded",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "{\"status\":200,\"cookie\":\"datadome=fmEbUmuuBgvgYvFlp9QF5jofI4eoKffvTHho2OEGk6l23Upgfh1Xi_NftvPUOf_~rYwOGje7hAoKgBejz1OgTvPHnGtHbLzkt7~XBxJ6~zvJ0IS6wSv6bK78XevmomOq; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-origin": "*",
+        "cache-control": "no-cache, no-store, must-revalidate",
+        "content-length": "234",
+        "content-type": "application/json;charset=utf-8",
+        "date": "Wed, 29 Apr 2026 15:54:38 GMT",
+        "expires": "0",
+        "pragma": "no-cache",
+        "server": "DataDome",
+        "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+        "via": "1.1 google, 1.1 33e036d6d8900b130219037836844f16.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "lsy_S3fDJUgGDNc3rbGkReNJhlyynuKAPqbZMpHh53CtUL5vympqiA==",
+        "x-amz-cf-pop": "MAD56-P6",
+        "x-cache": "Miss from cloudfront",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://dd.idealista.com/js/"
+  },
+  {
+    "body": "{\"purpose\":\"SNOOPING\",\"operationWhen\":\"\",\"email\":\"sergiop.pias@gmail.com\",\"emailPrivacyPolicyAccepted\":true,\"language\":\"es\",\"user\":{\"email\":\"sergiop.pias@gmail.com\"},\"recaptchaToken\":\"0cAFcWeA7OeuA3bDauAtv2T2Sjvs_sx7pPSla9Ie7aWpsRTe9_IiuJ7Cu_mncJDj5zKBsbSTtpBAk-KwNV-Q9mw4FEIG575vcQUmRELGRK94vEVNtZcP-quVvDU8vFh157fAUo0yPzEkbCvxSB6AY_Fbb4z_mZ5SENkywxpt1nfzKy7VPrWV2gSrGQlHg5pwV7WCyI-Ry5RaB4TMLZkACOE_gDZLXTuQEGZvJUnRDl3uCgd8xk4UdQKSGfL_bE38T5rZP9ZKiIw21YIImBTdBs69OiYj-CIagpBo1lSDRbl7RKF2zs8Wd8IUzwb_80EodRswmc6A0ccFFsVyYnz_EZiK9Y8aL_M5j8SfFKwjVh1PGtLhPNcUFRCeFVDb25gFnH9dQ9RZhgCO6SqP6Jr6SuzdGQ8vPWovDJC7Ivi61cAbEQv2MRD9IN5USzTp1s7qB99XWkoqCam_tlehcySQ9p3JPA0gXI0fRl1jNt2WoGprQ_lFDmsBkEQ-9OOopCHfl70yjZhNJVq4sBsr56zYSJJFGKiHk5lwX89cNu9AFNHeO4939HInWgrDHFfN0qlGcCHDjpaiO93PJs-JmMY8lBvE7ed1ofg4aoTWkxnULCNvVdYu7451kg2z1EK54hTWDwdDgYYUM4CKS3ft5-TWL5ILFxDNs4JuOyVf2RUAHHfZ2WjmeEFwxeV1E1qY5AjbuJmJhKHslNP1uvcr3gN3_hQiz1O4j_rexx5lqXi0sjh5M1QAB11sTiqrdlKR5VBb85K48SaSkFI0IVkKWDPc5xSw2xJpEYkPiNB4jeSe552sF231auT3FZJxRbIMfl3jPB9mR-vk7X2fyeLgJ0Z0scbJVIxqlc9jeovulEAwOWBCLCkZXAuYhLZsFW0nHDssuoLjfGoMfD6P2FQ1Bav7H8lbMenKURINZvZy7llrzqtZ9qMx3sysp5FthQf8t6SjI58UYdewak41iFXOvu7qXPwTFUhVd_NgqQYkMOhzfKI-J7JontGPy45pW_oF6AaLZn1Ya5OMyfkApCUaO8ofqSzWBmrzdL-3u4hDA6d-gNrovxijv3POn1JymmNYswhFBK-vvHZxnJcTvk6CMhJ__4CcVllLgR4udyBEB2kWL7AFEAF4IWf8SHrSYILP5I5nh3LRrhbFLt9WRuzHO-xUGGo7AIuDTV4c4MNkcITVDKJdjXc8h4xuviIbT4RE5bla4nBRZ9GKp09PdSwA2cRweH5r6Y7EsorJS64xMm_Dq3NzZXS6ZdwZBrGlWYcXR9aOLGsigRCYxsfhFpxM4vnPl1l3M2OU9s1-hUXWzbvMlJdP-1n28aqaV52GHnQxYLs0Fl3_wpSQO4BDeibBVcQAnWJYSrK1mv-mGIst_Iu0ZTOoFzeyjq7ZgCj9z8ywkRVMLMh8KVvzLjvO2x3w5R1KC_wXpli_z0ZnBWWcn9q4aNBpLUio_SW1xc6g1kg7Zimw3tSb_iO440uYvgidZ3EfLfmutnmKa7Yd7nf4qFhrLJUhCcmfiWvStypo0aDyc6ubjupgiQ-TUGoCBoXp42-rm7Is9JNz6PZjEJZRaKKhFR1Czjze-6P-gNr6S8Xlt4i7Bx21UkH9My0KkeMPg-FAFHaaTe42t_KPsPNSthv8M1EbK27G0ii8Xm90GSX3XC2C4blawdM0SegCF3fPvbQfMOhB-_7kPIZfbo9WjNPiO0j9Zt7VTMdOwELCZeLoOwzSxiYTzI7PiUB3f6U0YtuhPHLW8i4N9B-9YccUJ3vg6-H76zLf_YU9f6tp3YnxEPCXrt5F3_7ApMaqLLy6SSWqqWa1ekPMLjLmbCpPzTwEZuliRYn4g9Dgpe12fTze2AwqOk3AG4rfhwHIYNx39l_J3dL5hkkB591xkwZLOItpF0gEno9IwbvM0E0XvepHUsg5xWS_zSB4OSKNVVh_6d_We45xOlp1Oulq-0Q8v4-CKTd7McZLyyeOOJO7vtmtAavIUf7l6zOGtnXV5zphZj67Cr90mBF3zICGkcbOA7NtqHYn_ZvI4zT3JruufHCcE6hAs5uOqmKrvOcx1vWbmXQBtOlyURGmCYfRrH5vXflJFaXTUFz8_pemedBtgeiPn3ze7r-6Sj0Ydc-wKoY5pSgIoqdxjfyLstYD42zaUBbTw_hzXeZOyWvYE5JxTUoqryCMxrzERtYWKIdeqWc76V5PtgJBoLqehgPe9JdfZcPbXUtUwTsM3rDNWqGWvcXFCbe-eTj0-paHtJ9RMYoaASFI22ZghAZYTVaN-YC8F9cjspsULfQwN90FvUh_ciTW8KJwKeRxkx9jT_7yZcIbhB2WHwR5pTXqAOfKwCdNeSlQxIubFdinv93YE3zYZlg5XYfs1_AIHKwdWUFsMZ\"}",
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/interests/4435df0e-e42e-45b2-a794-355d43915acf",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "{\"result\":\"CREATED\",\"data\":{\"valuationId\":\"809ae8be-18c0-4079-8269-abf6fddd1b68\"},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:44 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:43 GMT; Path=/; Secure\ndatadome=AvBRNmQdBgGaEZWgQeLqG0YU684eg_r2har3gq__PrApbdLmKBJ_XxR4qzF~wfuY_snFxQvs8oTbJ1GVbNMe~nD0RlOXzyH8gY9GoxhhfEHWv5XoTOz3djVq6L8TIaPu; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 201
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/generate-valuation/4435df0e-e42e-45b2-a794-355d43915acf"
+  },
+  {
+    "body": "\n(6LceRo8UAAAAAFbfO3vhtiQk66j-fJEkQichNAk2\u0012¤\u000e03AFcWeA5wbTg_Puls2xLmnXEIbADCIgJyI27otg82ZN3VRcGfWd1-UMFP84k7SbDH_J_9izZBjfoGhEPhn5obmslH9RDEvBSHavNA9RKauZcACbHIsGp2jd8tTlUO6daIEkpE0rLZfffpmHp92r_qdOmibmFNUT5zlZ9tmGGjw_cuRfXDNS_DFHezTbiWd3WW_OHhNhtYgnwrdKkxb0BQ19S2kGySuTSE7nSjh6TVc6P6S1KjLf2-cLNEYOAmYn10u4FrwzU1nYNOJwCEtXlj8jT7BH7mqseyKLWGET4sWQ7QUealSkXTXo7TqUAmpRgRzbkiVsrRwS_MjVXn10oDpoJRXtHLLAha00ezyBrUeSDRjHiMXNIa1CRISh131gQbJIE1jYo3dbhWbOOlyKDP2Ot7VEloi6JC18_V6VWic_ib6KBsM-5XLEAJZ94qopd_VxV2UZrQ2-Bb0Y1-oeuDWYxdQP5yKzsCdtnkMDr4wl33xhjISUR14HDVYDf5DomaQDfut80dA5PFSTSyrGrDnHaeoqIxBipz3Kc8oafZAZXw8P2HkNGOZzbMVshqOAYVCRmAo8AIkz6DUVExVZ8GDy89xUhA-rk3C1YnBumqpJj_ihT903LgB1a6Xf37QRnvGwWKeoBSlLYoD_oz1rQ4PSw0cyG3LYxRYDJuTz52rTYBqeNIUiIKqUJ_QGJ1Y75vgzbSoh53rmSD688BmldKmmsq8czgUQGCXostyZtpXkGMBZamM-jY2nrTLwf0udWQLt39Sjhe1N2gpU40nsNlXuu3nLfU4oGh_0NW932Z94O6o0_m-S6NMN1bfxjhpJ4EIBFr5NUm_xhvGp5gIx0ZhJojousUa8puRrqzacCBpGbdP11VK0y_u6ZYEpXwOwGHf5KstCHkNsxebz99eoqDSIb6qRtFhSHG1od4UEaoEwk6Ul9n44EiUtVe46OWBLL6s7FEw-8PH_0WCaqfnU-bu2MIK7Ng-ajcn0C6bK9iPCXytYQq_bm1RT6mK95FW_2a7I8v9VvurJZFxt5qHAQkHon1gjZTS1A_1cVfVisrgcfg7OqXyxx-kKH2nIx7wr7kFC9_lMaeyPkMoThkY1WqcFXokt_qaZiGOZoi7w4F6Zfl1k2Y-QOp7SavBn6k-ZqCWmQ6bkrdeD32IrBvQH1pr0W8ncAHPW_IPIxDGZ79Bz1hrDxOykT0VwOurwfiif1ayyFd2pU9MEWzNZpkZbCsnE8QAosVmHZm6Pf-TiWTPHCcYJPUa6ncE11URwX_8CtHUNtjOgIiVT2yNSxFGD1S1Gb1N6WRyfImqyoKlj6vDeKclAC0bjn1z1PPoMkzO-WhBtqpANcsRkjV3_J8RyODU3HwQXgJSLkiUjmb4wMZQdQD024H-bE19l2arb34T0Gn1pQC31O0rWSmQwMWPGqARZf4Oor4A5glaBOsZdtq6MMfMH9ihGrOZam-VRrJQOKwf6EPQps2MRHhuTzTa8DVG3INBPm_ruuCX7vc5IdDoxGyq8WgJTLO_LYt8v7pI_Q7zKwqygcMT-DjVAUUn78QMPWZLT_RF_oC8DBy3XtatUIo6zdFTBpQN3alzLCoP6Ca-9Ilhh-PpYaBu-ybPJUgQqHmJYdyVb-85v6c6o-BtjEBdpWXzKqzWy6t6sH_he3uOJCSDDKfXpJWYiITIQ5FyIIX_w5lxALdu03IJwC9pLYOB9jZDA8GRTnPWrBbTOnmTfoSsHSEh_bj4GVpRvDxH06l-Me-23EhvUBSWABQQLvcTOOAlke-BPEWWli7e5Gb68HUE7NwhQ4ZVBlxvhlE_oka4VACs2PN8A\u001a\u0018gTpTIWhbKpxADzTzkcabhXN4\"\u0001\u0018\u0001*u\n\b\b\u0005\u0010í\u0003\u0018©\u0004\n\b\b\u0006\u0010¯\u0001\u0018\u0001\n\t\b\u000b\u0010°\u0001\u0018£\b\n\t\b\u0003\u0010\u0001\u0018ã\u000b\n\b\b\u000f\u0010À\t\u0018¯\u0001\n\b\b\u0001\u0010Ú\u0007\u0018\u0004\n\t\b\u0002\u0010©\u0001\u0018Ï\b\n\u000e\b\u0004\u0010ú§\u0001\u0018ô\u0002*\u0003\u0010°N\n\u0007\b\u0014\u0010\u0002\u0018\n\n\u0007\b\u0012\u0010à\u0002\u0018\n\n\b\b\u0013\u0010î\u0003\u0018ª\u00048\u0002@ \u0001H°ê\u0001",
+    "headers": {
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "",
+      "content_encoding": null,
+      "content_type": "application/binary",
+      "duration": 0,
+      "format": "binary",
+      "headers": {
+        "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+        "content-length": "0",
+        "content-type": "application/binary",
+        "cross-origin-opener-policy-report-only": "same-origin; report-to=\"coop_38fac9d5b82543fc4729580d18ff2d3d\"",
+        "cross-origin-resource-policy": "cross-origin",
+        "date": "Wed, 29 Apr 2026 15:54:44 GMT",
+        "report-to": "{\"group\":\"coop_38fac9d5b82543fc4729580d18ff2d3d\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/38fac9d5b82543fc4729580d18ff2d3d\"}]}",
+        "server": "ESF",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "0"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.google.com/recaptcha/api2/clr?k=6LceRo8UAAAAAFbfO3vhtiQk66j-fJEkQichNAk2"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":\"OK\",\"data\":{\"isLogged\":false},\"errors\":null}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:44 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:44 GMT; Path=/; Secure\ndatadome=H1ocOs0EphWdaKI0uaZQUiB51gA_j4USZBYDV91YXBiuHUaTGptoNAbpTTegbYzNS70WgpUYD_o1kGBTHfbZHngitIFpwpw89o6R6F0OTdPg1ckYnlu6qmsr8HsZE9K7; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuator/is-user-logged"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"headers\":{},\"body\":{\"result\":\"ok\",\"message\":null,\"code\":\"NO_ERROR\",\"fieldErrors\":[],\"globalErrors\":[],\"data\":{\"orderedAgencies\":[130023806,260420509,260397235,260368776],\"previouslyContactedAgencies\":[],\"property\":{\"simpleAddress\":\"Arrayanes, 7\",\"municipality\":\"Madrid\",\"lastZone\":\"Aluche, Madrid\",\"premise\":\"\",\"area\":\"94\",\"typology\":\"HOME\",\"cadastralReference\":\"6918614VK3761H0005WO\",\"characteristics\":{\"bathrooms\":2,\"rooms\":3,\"pool\":false,\"lift\":false,\"pentHouse\":false,\"duplex\":false},\"coordinates\":{\"latitude\":\"40.39331449261345\",\"longitude\":\"-3.743663074834389\"}},\"valuation\":{\"rent\":{\"averagePrice\":\"1420\",\"maxPrice\":\"1490\",\"minPrice\":\"1290\",\"alerts\":[]},\"sale\":{\"averagePrice\":\"307000\",\"maxPrice\":\"326000\",\"minPrice\":\"278000\",\"alerts\":[]},\"valuationMadeBy\":\"BY_CADASTRAL_REFERENCE\",\"valuationDate\":\"29/04/2026\"},\"additionalPropertyLinks\":{\"valuateAnotherLink\":\"/valoracion-de-inmuebles/\",\"moreAtSellInAreaLink\":\"/venta-viviendas/madrid/latina/aluche/\",\"moreAtRentInAreaLink\":\"/alquiler-viviendas/madrid/latina/aluche/\"},\"mortgagesLink\":{\"valuateAnotherLink\":\"/valoracion-de-inmuebles/\",\"mortgagesLink\":\"/hipotecas/simulador-hipotecas/\"},\"agenciesInAreaLink\":\"/agencias-inmobiliarias/madrid/latina/aluche/inmobiliarias\",\"privacyPolicyUrl\":\"https://www.idealista.com/ayuda/articulos/politica-de-privacidad/\",\"operation\":{\"which\":\"SNOOPING\",\"when\":null,\"role\":\"SNOOPING\"},\"user\":{\"name\":null,\"phone\":null,\"email\":\"sergiop.pias@gmail.com\",\"isBanned\":false,\"isLimitExceeded\":false}},\"markupResponseData\":[],\"dataLayerEvent\":null,\"dataLayers\":[]},\"statusCode\":\"OK\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:44 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:44 GMT; Path=/; Secure\ndatadome=htBsVyBFHlzpHb1aGAv3FeOJzUb0NG~PgnwRpbMrHgYQ3g0XDCPJJiAC0EGZqWKN441Gyu4FNUlGnO2Azajb6YLsSJpv10fttf_hDQ8FpN9lIfa~_nBVchvhaxLVctln; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/vendorleads/valuations/809ae8be-18c0-4079-8269-abf6fddd1b68?language=es"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"result\":null,\"message\":null,\"code\":\"NO_ERROR\",\"fieldErrors\":[],\"globalErrors\":[],\"data\":{\"agenciesCardDTOs\":[{\"id\":130023806,\"name\":\"Gilmar Madrid Río\",\"logoUrl\":\"https://st3.idealista.com/00/60/f5/gilmarmadridrio.gif\",\"mainImageUrl\":\"https://st3.idealista.com/67/dc/f2/main-gilmarmadridrio.jpg\",\"antiquity\":{\"head\":\"25 años\",\"tail\":\"en idealista\"},\"adsQuality\":{\"text\":\"Calidad anuncios\",\"percentage\":69},\"adsWithMultimediaPercentage\":{\"head\":\"73% de anuncios con contenido multimedia\",\"tail\":\"verificado por idealista\"},\"managedLanguages\":{\"text\":\"Habla español\",\"seeMoreText\":\"Ver más\"},\"showDetailsText\":\"Ver detalles\",\"hideDetailsText\":\"Ocultar detalles\",\"similarProperties\":{\"count\":\"1 vivienda en venta\",\"where\":\"en Aluche (Madrid)\"},\"agencyDirectory\":{\"text\":\"Ver toda su cartera\",\"url\":\"/pro/gilmarmadridrio/\"}},{\"id\":260420509,\"name\":\"VIVIENDA XXI\",\"logoUrl\":\"https://st3.idealista.com/24/18/93/p00014674.gif\",\"mainImageUrl\":null,\"antiquity\":{\"head\":\"14 años\",\"tail\":\"en idealista\"},\"adsQuality\":{\"text\":\"Calidad anuncios\",\"percentage\":50},\"adsWithMultimediaPercentage\":null,\"managedLanguages\":{\"text\":\"Habla español\",\"seeMoreText\":\"Ver más\"},\"showDetailsText\":\"Ver detalles\",\"hideDetailsText\":\"Ocultar detalles\",\"similarProperties\":null,\"agencyDirectory\":{\"text\":\"Ver toda su cartera\",\"url\":\"/pro/p00014674/\"}},{\"id\":260397235,\"name\":\"VOhome propiedades carabanchel\",\"logoUrl\":\"https://st3.idealista.com/4c/fe/eb/vohomepropiedadescarabanchel.gif\",\"mainImageUrl\":\"https://st3.idealista.com/fe/c4/93/main-vohomepropiedadescarabanchel.jpg\",\"antiquity\":{\"head\":\"5 años\",\"tail\":\"en idealista\"},\"adsQuality\":{\"text\":\"Calidad anuncios\",\"percentage\":68},\"adsWithMultimediaPercentage\":null,\"managedLanguages\":{\"text\":\"Habla español\",\"seeMoreText\":\"Ver más\"},\"showDetailsText\":\"Ver detalles\",\"hideDetailsText\":\"Ocultar detalles\",\"similarProperties\":null,\"agencyDirectory\":{\"text\":\"Ver toda su cartera\",\"url\":\"/pro/vohomepropiedadescarabanchel/\"}},{\"id\":260368776,\"name\":\"MASTERPISO\",\"logoUrl\":\"https://st3.idealista.com/f5/40/e0/masterpiso.gif\",\"mainImageUrl\":\"https://st3.idealista.com/b5/95/4e/main-masterpiso.jpg\",\"antiquity\":{\"head\":\"7 años\",\"tail\":\"en idealista\"},\"adsQuality\":{\"text\":\"Calidad anuncios\",\"percentage\":73},\"adsWithMultimediaPercentage\":null,\"managedLanguages\":{\"text\":\"Habla español\",\"seeMoreText\":\"Ver más\"},\"showDetailsText\":\"Ver detalles\",\"hideDetailsText\":\"Ocultar detalles\",\"similarProperties\":{\"count\":\"8 viviendas en venta\",\"where\":\"en Aluche (Madrid)\"},\"agencyDirectory\":{\"text\":\"Ver toda su cartera\",\"url\":\"/pro/masterpiso/\"}}]},\"markupResponseData\":[],\"dataLayerEvent\":null,\"dataLayers\":[]}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:45 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:44 GMT; Path=/; Secure\ndatadome=Lr6~HvISmj3PO2SMGhWGb5IAN62C6nrLxTdU9bEqtao1VkYLiN7N7MVRuZSxZFyNXGWhoTi7lpupu7ND1Ak65i5cy~fAZRLvj6BSJig6rZcIi5fv9gQEqFrNREQS2FhU; Max-Age=31536000; Domain=.idealista.com; Path=/; Secure; SameSite=Lax",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff",
+        "x-datadome": "protected"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com/agencies-card?latitude=40.39331449261345&longitude=-3.743663074834389&typology=HOME&operation=SNOOPING&agenciesId=130023806&agenciesId=260420509&agenciesId=260397235&agenciesId=260368776&locale=es"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"responseStatusCode\":\"200\",\"settingCountry\":\"es\",\"settingLanguage\":\"es\",\"userStatus\":\"2\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:47 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:47 GMT; Path=/; Secure",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com//vendorleads/valuator/ubication/datalayer"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\n    \"cmp\": {\n        \"purposes\": \"${cmpPurposes}\",\n        \"vendors\": \"${cmpVendors}\"\n    },\n    \"device\": {\n        \"type\": \"${deviceType}\"\n    },\n    \"event\": {\n        \"class\": \"page\",\n        \"name\": \"viewAgenciesContactForm\",\n        \"type\": \"view\",\n        \"userRole\": \"${eventUserRole}\"\n    },\n    \"form\": {\n        \"name\": \"${formName}\"\n    },\n    \"page\": {\n        \"section\": \"${pageSection}\",\n        \"subSection\": \"${pageSubSection}\",\n        \"type\": \"${pageType}\"\n    },\n    \"markup\": {\n        \"test\": {\n            \"name\": \"${markupTestName}\"\n        }\n    },\n    \"response\": {\n        \"statusCode\": \"${responseStatusCode}\"\n    },\n    \"setting\": {\n        \"country\": \"${settingCountry}\",\n        \"language\": \"${settingLanguage}\"\n    },\n    \"tm\": {\n        \"datalayerVersion\": \"2.0\",\n        \"markup\": {\n            \"isTemporary\": \"0\",\n            \"owner\": \"SE\",\n            \"project\": \"TM-4507: VendorLeads\"\n        }\n    }, \n    \"user\": {\n        \"hash\": \"${userHash}\",\n        \"mktHash\": \"${userMktHash}\",\n        \"profileId\": \"${userProfileId}\",\n        \"status\": \"${userStatus}\",    \n        \"toolsService\": {\n            \"geo\": \"${userToolsServiceGeo}\",\n            \"role\": \"${userToolsServiceRole}\",\n            \"software\": \"${userToolsServiceSoftware}\"\n        },\n        \"type\": \"${userType}\"\n    }  \n}",
+      "content_encoding": null,
+      "content_type": "application/json",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "0",
+        "age": "1504617",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Sun, 12 Apr 2026 05:57:51 GMT",
+        "etag": "W/\"85aafd980d313432561242d1cb1a344d\"",
+        "last-modified": "Thu, 17 Jul 2025 08:59:16 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 6facad9f7e9d7675fd5d35a1551a9ff2.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "mLBYCXpdbrg0Nh4b9x6ciuq0aAwExbiv8LlOBF_e92nQCHRs2yI0jg==",
+        "x-amz-cf-pop": "MAD56-P4",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "Hit from cloudfront"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://st4.idealista.com/datalayers/idealista/vendorLeads/common/contactAgenciesForm/viewAgenciesContactForm.json"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\n    \"cmp\": {\n        \"purposes\": \"${cmpPurposes}\",\n        \"vendors\": \"${cmpVendors}\"\n    },\n    \"device\": {\n        \"type\": \"${deviceType}\"\n    },\n    \"event\": {\n        \"class\": \"page\",\n        \"name\": \"valuationPropertyResult\",\n        \"type\": \"view\",\n        \"userRole\": \"${eventUserRole}\"\n    },\n    \"form\": {\n        \"name\": \"propertyValuationForm\"\n    },\n    \"page\": {\n        \"section\": \"propertyValuation\",\n        \"subSection\": \"${pageSubSection}\",\n        \"type\": \"${pageType}\",\n        \"visibleContent\": \"${pageVisibleContent}\"\n    },\n    \"markup\": {\n        \"test\": {\n            \"name\": \"${markupTestName}\"\n        }\n    },\n    \"response\": {\n        \"statusCode\": \"${responseStatusCode}\"\n    },\n    \"setting\": {\n        \"country\": \"${settingCountry}\",\n        \"language\": \"${settingLanguage}\"\n    },\n    \"tm\": {\n        \"datalayerVersion\": \"2.0\",\n        \"markup\": {\n            \"isTemporary\": \"0\",\n            \"owner\": \"SE\",\n            \"project\": \"TM-4507: VendorLeads\"\n        }\n    }, \n    \"user\": {\n        \"hash\": \"${userHash}\",\n        \"mktHash\": \"${userMktHash}\",\n        \"profileId\": \"${userProfileId}\",\n        \"status\": \"${userStatus}\",    \n        \"toolsService\": {\n            \"geo\": \"${userToolsServiceGeo}\",\n            \"role\": \"${userToolsServiceRole}\",\n            \"software\": \"${userToolsServiceSoftware}\"\n        },\n        \"type\": \"${userType}\"\n    }  \n}",
+      "content_encoding": null,
+      "content_type": "application/json",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "*",
+        "access-control-max-age": "0",
+        "age": "1479194",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Sun, 12 Apr 2026 13:01:34 GMT",
+        "etag": "W/\"c9f8ee4ec12d411e06b4fcf1fda89dbf\"",
+        "last-modified": "Thu, 31 Jul 2025 06:16:42 GMT",
+        "server": "AmazonS3",
+        "vary": "Accept-Encoding",
+        "via": "1.1 6facad9f7e9d7675fd5d35a1551a9ff2.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "dC5QmeQoOe-S3dRBwMDhxHeGtSKZ5M33Lr_pB8V56M7OhrexVlvgug==",
+        "x-amz-cf-pop": "MAD56-P4",
+        "x-amz-server-side-encryption": "AES256",
+        "x-cache": "Hit from cloudfront"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://st4.idealista.com/datalayers/idealista/vendorLeads/propertyValuation/valuationPropertyResult.json"
+  },
+  {
+    "body": null,
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "GET",
+    "response": {
+      "body": "{\"responseStatusCode\":\"200\",\"settingCountry\":\"es\",\"settingLanguage\":\"es\",\"userStatus\":\"2\"}",
+      "content_encoding": "utf-8",
+      "content_type": "application/json;charset=utf-8",
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "no-cache, no-store, must-revalidate, private, max-age=0",
+        "content-encoding": "gzip",
+        "content-security-policy": "frame-ancestors *.idealista.com *.inmovilla.com;",
+        "content-type": "application/json;charset=UTF-8",
+        "date": "Wed, 29 Apr 2026 15:54:47 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "set-cookie": "lang=es; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/; Secure\nlang=es; Expires=Thu, 29 Apr 2027 15:54:47 GMT; Path=/; Secure",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Accept-Encoding",
+        "x-cache": "MISS",
+        "x-content-type-options": "nosniff"
+      },
+      "status": 200
+    },
+    "type": "fetch",
+    "url": "https://www.idealista.com//vendorleads/valuator/ubication/datalayer"
+  },
+  {
+    "body": "{\"device_type\":\"desktop\",\"event_class\":\"page\",\"event_name\":\"valuationPropertyResult\",\"event_type\":\"view\",\"event_userRole\":[\"seeker\"],\"form_name\":\"propertyValuationForm\",\"page_section\":\"propertyValuation\",\"page_type\":\"locateComplete\",\"response_statusCode\":\"200\",\"setting_country\":\"es\",\"setting_language\":\"es\",\"tm_datalayerVersion\":\"2.0\",\"tm_markup_isTemporary\":\"0\",\"tm_markup_owner\":\"SE\",\"tm_markup_project\":\"TM-4507: VendorLeads\",\"user_status\":\"2\",\"cp.utag_main__sn\":\"1\",\"cp.utag_main_ses_id\":\"1777478064950\",\"cp.utag_main__pn\":\"1\",\"cp.utag_main__prevTsUrl\":\"https%3A%2F%2Fwww.idealista.com%2Fes%2Fvendorleads%2Fvaluator%2Fproperty-location%2Ffull-address%3Freference%3D6918614VK3761H0005WO\",\"cp.utag_main__prevTsSource\":\"Portal sites\",\"cp.utag_main__prevTsCampaign\":\"organicTrafficByTm\",\"cp.utag_main__prevTsReferrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"cp.utag_main__prevLevel2\":\"028-idealista/VL_propertyValuation\",\"cp.utag_main__se\":\"3\",\"cp.utag_main__ss\":\"0\",\"cp.utag_main__st\":\"1777479887884\",\"cp.utag_main__prevEventView\":\"028-idealista/VL_propertyValuation > propertyValuation > viewPropertyValuationForm\",\"cp.uppar\":\"false\",\"cp.PARAGLIDE_LOCALE\":\"es\",\"cp.datadome\":\"Lr6~HvISmj3PO2SMGhWGb5IAN62C6nrLxTdU9bEqtao1VkYLiN7N7MVRuZSxZFyNXGWhoTi7lpupu7ND1Ak65i5cy~fAZRLvj6BSJig6rZcIi5fv9gQEqFrNREQS2FhU\",\"cp.lang\":\"es\",\"meta.description\":\"¿Buscas vivienda? Economiza tiempo y dinero con idealista, el portal inmobiliario donde puedes comprar, alquilar o vender tu casa, piso, chalet, finca u oficina de forma rápida y sencilla en España\",\"meta.author\":\"idealista.com\",\"meta.pragma\":\"no-cache\",\"meta.robots\":\"noodp\",\"meta.viewport\":\"width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0\",\"dom.referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"dom.title\":\"Viviendas venta. Viviendas alquiler. Pisos. Chalets — idealista\",\"dom.domain\":\"www.idealista.com\",\"dom.url\":\"https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68\",\"dom.pathname\":\"/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68\",\"dom.viewport_height\":\"1385\",\"dom.viewport_width\":\"2714\",\"ut.domain\":\"idealista.com\",\"ut.version\":\"ut4.54.202604230618\",\"ut.event\":\"view\",\"ut.session_id\":\"1777478064950\",\"ut.account\":\"idealista\",\"ut.profile\":\"id-portal\",\"ut.env\":\"prod\",\"tealium_event\":\"view\",\"tealium_session_id\":\"1777478064950\",\"tealium_session_number\":\"1\",\"tealium_session_event_number\":\"3\",\"tealium_account\":\"idealista\",\"tealium_profile\":\"id-portal\",\"tealium_environment\":\"prod\",\"tealium_random\":\"4243754792836140\",\"tealium_library_name\":\"utag.js\",\"tealium_library_version\":\"4.54.0\",\"tealium_timestamp_epoch\":\"1777478087\",\"tealium_timestamp_utc\":\"2026-04-29T15:54:47.885Z\",\"tealium_timestamp_local\":\"2026-04-29T17:54:47.885\",\"js_page.event_userRole_st\":\"seeker\",\"js_page.traffic_source_url\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"js_page.traffic_source_referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"js_page.traffic_source_medium\":\"Portal sites\",\"js_page.traffic_source_campaign\":\"organicTrafficByTm\",\"js_page.marketing_transactionId\":\"es1777478087885\",\"js_page.userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"js_page.windowWidth\":\"2699\",\"js_page.windowHeight\":\"1385\",\"js_page.piano_collectionDomain\":\"col.idealista.com\",\"js_page.piano_site\":\"582065\",\"js_page.piano_load\":\"true\",\"js_page.piano_triggerEvent\":\"pageDisplay\",\"js_page.piano_level2\":\"028-idealista/VL_propertyValuation\",\"js_page.event_userRole_compressArray\":[\"seeker\"],\"js_page.marfeel_load\":\"false\",\"js_page.clarity_load\":\"false\",\"js_page.pingdom_load\":\"false\",\"js_page.dd_load\":\"false\",\"js_page.hotjar_load\":\"false\",\"js_page.beamer_load\":\"false\",\"js_page.landbot_load\":\"false\",\"js_page.gcm_adPersonalization\":\"denied\",\"js_page.gcm_adUserData\":\"denied\",\"js_page.gcm_adStorage\":\"denied\",\"js_page.gcm_analyticsStorage\":\"denied\",\"js_page.gads_conversionId\":\"AW-1061695190\",\"js_page.gads_load\":\"true\",\"js_page.gads_transactionId\":\"es1777478087885\",\"js_page.ga4_load\":\"false\",\"js_page.af_load\":\"false\",\"js_page.fb_load\":\"false\",\"js_page.tk_load\":\"false\",\"js_page.bing_load\":\"false\",\"js_page.rtbhouse_load\":\"false\",\"js_page.criteo_deviceType\":\"d\",\"js_page.criteo_load\":\"false\",\"js_page.outbrain_load\":\"true\",\"js_page.outbrain_marketerId\":\"00102f801aea4aa0a21e30487ffdf4c4e8\",\"js_page.outbrain_track\":\"Visita\",\"js_page.taboola_load\":\"true\",\"js_page.taboola_taboolaId\":\"1420147\",\"js_page.linkedin_load\":\"false\",\"js_page.datalake_url\":\"https://integration2.idealista.com/tealium/client\",\"js_page.datalake_load\":\"true\",\"js_page.tealium_collect_load\":\"false\",\"js_page.prevPage\":\"028-idealista/VL_propertyValuation > propertyValuation > viewPropertyValuationForm\",\"js_page.prevLevel2\":\"028-idealista/VL_propertyValuation\"}",
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "",
+      "content_encoding": null,
+      "content_type": null,
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "https://www.idealista.com",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "public,max-age=3600",
+        "content-length": "0",
+        "content-security-policy": "frame-ancestors *.idealista.com;",
+        "date": "Wed, 29 Apr 2026 15:54:48 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+        "via": "1.1 varnish",
+        "x-cache": "MISS",
+        "x-cache-hits": "0",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-served-by": "cache-mad22047-MAD",
+        "x-timer": "S1777478088.010667,VS0,VE2",
+        "x-xss-protection": "1; mode=block"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://integration2.idealista.com/tealium/client"
+  },
+  {
+    "body": "{\"device_type\":\"desktop\",\"event_class\":\"page\",\"event_name\":\"viewAgenciesContactForm\",\"event_type\":\"view\",\"event_userRole\":[\"seeker\"],\"form_name\":\"agenciesContactForm\",\"page_section\":\"propertyValuation\",\"page_subSection\":\"main\",\"response_statusCode\":\"200\",\"setting_country\":\"es\",\"setting_language\":\"es\",\"tm_datalayerVersion\":\"2.0\",\"tm_markup_isTemporary\":\"0\",\"tm_markup_owner\":\"SE\",\"tm_markup_project\":\"TM-4507: VendorLeads\",\"user_status\":\"2\",\"cp.utag_main__sn\":\"1\",\"cp.utag_main_ses_id\":\"1777478064950\",\"cp.utag_main__pn\":\"1\",\"cp.utag_main__prevTsUrl\":\"https%3A%2F%2Fwww.idealista.com%2Fes%2Fvendorleads%2Fvaluator%2Fproperty-location%2Ffull-address%3Freference%3D6918614VK3761H0005WO\",\"cp.utag_main__prevTsSource\":\"Portal sites\",\"cp.utag_main__prevTsCampaign\":\"organicTrafficByTm\",\"cp.utag_main__prevTsReferrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"cp.utag_main__prevLevel2\":\"028-idealista/VL_propertyValuation\",\"cp.utag_main__ss\":\"0\",\"cp.utag_main__se\":\"4\",\"cp.utag_main__st\":\"1777479888089\",\"cp.utag_main__prevEventView\":\"028-idealista/VL_propertyValuation > propertyValuation > locateComplete > valuationPropertyResult\",\"cp.uppar\":\"false\",\"cp.PARAGLIDE_LOCALE\":\"es\",\"cp.datadome\":\"Lr6~HvISmj3PO2SMGhWGb5IAN62C6nrLxTdU9bEqtao1VkYLiN7N7MVRuZSxZFyNXGWhoTi7lpupu7ND1Ak65i5cy~fAZRLvj6BSJig6rZcIi5fv9gQEqFrNREQS2FhU\",\"cp.lang\":\"es\",\"meta.description\":\"¿Buscas vivienda? Economiza tiempo y dinero con idealista, el portal inmobiliario donde puedes comprar, alquilar o vender tu casa, piso, chalet, finca u oficina de forma rápida y sencilla en España\",\"meta.author\":\"idealista.com\",\"meta.pragma\":\"no-cache\",\"meta.robots\":\"noodp\",\"meta.viewport\":\"width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0\",\"dom.referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"dom.title\":\"Viviendas venta. Viviendas alquiler. Pisos. Chalets — idealista\",\"dom.domain\":\"www.idealista.com\",\"dom.url\":\"https://www.idealista.com/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68\",\"dom.pathname\":\"/es/vendorleads/valuator/valuation/809ae8be-18c0-4079-8269-abf6fddd1b68\",\"dom.viewport_height\":\"1385\",\"dom.viewport_width\":\"2714\",\"ut.domain\":\"idealista.com\",\"ut.version\":\"ut4.54.202604230618\",\"ut.event\":\"view\",\"ut.session_id\":\"1777478064950\",\"ut.account\":\"idealista\",\"ut.profile\":\"id-portal\",\"ut.env\":\"prod\",\"tealium_event\":\"view\",\"tealium_session_id\":\"1777478064950\",\"tealium_session_number\":\"1\",\"tealium_session_event_number\":\"4\",\"tealium_account\":\"idealista\",\"tealium_profile\":\"id-portal\",\"tealium_environment\":\"prod\",\"tealium_random\":\"6843140618124486\",\"tealium_library_name\":\"utag.js\",\"tealium_library_version\":\"4.54.0\",\"tealium_timestamp_epoch\":\"1777478088\",\"tealium_timestamp_utc\":\"2026-04-29T15:54:48.089Z\",\"tealium_timestamp_local\":\"2026-04-29T17:54:48.089\",\"js_page.event_userRole_st\":\"seeker\",\"js_page.traffic_source_url\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=6918614VK3761H0005WO\",\"js_page.traffic_source_referrer\":\"https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference\",\"js_page.traffic_source_medium\":\"Portal sites\",\"js_page.traffic_source_campaign\":\"organicTrafficByTm\",\"js_page.marketing_transactionId\":\"es1777478088089\",\"js_page.userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"js_page.windowWidth\":\"2699\",\"js_page.windowHeight\":\"1385\",\"js_page.piano_collectionDomain\":\"col.idealista.com\",\"js_page.piano_site\":\"582065\",\"js_page.piano_load\":\"true\",\"js_page.piano_triggerEvent\":\"pageDisplay\",\"js_page.piano_level2\":\"028-idealista/VL_propertyValuation\",\"js_page.event_userRole_compressArray\":[\"seeker\"],\"js_page.marfeel_load\":\"false\",\"js_page.clarity_load\":\"false\",\"js_page.pingdom_load\":\"false\",\"js_page.dd_load\":\"false\",\"js_page.hotjar_load\":\"false\",\"js_page.beamer_load\":\"false\",\"js_page.landbot_load\":\"false\",\"js_page.gcm_adPersonalization\":\"denied\",\"js_page.gcm_adUserData\":\"denied\",\"js_page.gcm_adStorage\":\"denied\",\"js_page.gcm_analyticsStorage\":\"denied\",\"js_page.gads_conversionId\":\"AW-1061695190\",\"js_page.gads_load\":\"true\",\"js_page.gads_transactionId\":\"es1777478088089\",\"js_page.ga4_load\":\"false\",\"js_page.af_load\":\"false\",\"js_page.fb_load\":\"false\",\"js_page.tk_load\":\"false\",\"js_page.bing_load\":\"false\",\"js_page.rtbhouse_load\":\"false\",\"js_page.criteo_deviceType\":\"d\",\"js_page.criteo_load\":\"false\",\"js_page.outbrain_load\":\"true\",\"js_page.outbrain_marketerId\":\"00102f801aea4aa0a21e30487ffdf4c4e8\",\"js_page.outbrain_track\":\"Visita\",\"js_page.taboola_load\":\"true\",\"js_page.taboola_taboolaId\":\"1420147\",\"js_page.linkedin_load\":\"false\",\"js_page.datalake_url\":\"https://integration2.idealista.com/tealium/client\",\"js_page.datalake_load\":\"true\",\"js_page.tealium_collect_load\":\"false\",\"js_page.prevPage\":\"028-idealista/VL_propertyValuation > propertyValuation > locateComplete > valuationPropertyResult\",\"js_page.prevLevel2\":\"028-idealista/VL_propertyValuation\"}",
+    "headers": {
+      "Content-Type": "application/json",
+      "Referer": "https://www.idealista.com/",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Google Chrome\";v=\"147\", \"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"147\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "method": "POST",
+    "response": {
+      "body": "",
+      "content_encoding": null,
+      "content_type": null,
+      "duration": 0,
+      "format": "text",
+      "headers": {
+        "accept-ranges": "bytes",
+        "access-control-allow-origin": "https://www.idealista.com",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+        "cache-control": "public,max-age=3600",
+        "content-length": "0",
+        "content-security-policy": "frame-ancestors *.idealista.com;",
+        "date": "Wed, 29 Apr 2026 15:54:48 GMT",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "strict-transport-security": "max-age=2592000; includeSubDomains",
+        "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+        "via": "1.1 varnish",
+        "x-cache": "MISS",
+        "x-cache-hits": "0",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY",
+        "x-served-by": "cache-mad22047-MAD",
+        "x-timer": "S1777478088.228889,VS0,VE4",
+        "x-xss-protection": "1; mode=block"
+      },
+      "status": 200
+    },
+    "type": "xhr",
+    "url": "https://integration2.idealista.com/tealium/client"
+  }
+]

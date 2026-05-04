@@ -1,4 +1,4 @@
-import { Browser } from "playwright";
+import { Browser } from "patchright";
 import { PropertyRow, SheetConfig } from "../types";
 
 const BBVA_URL =

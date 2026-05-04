@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { width: 340px; padding: 16px; font-family: system-ui, sans-serif; font-size: 14px; }
+    h2 { margin: 0 0 12px; font-size: 16px; }
+    label { display: block; margin-bottom: 4px; font-weight: 500; }
+    input { width: 100%; padding: 6px 8px; margin-bottom: 12px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+    button { width: 100%; padding: 10px; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; font-weight: 600; }
+    #startBtn { background: #28a745; color: white; }
+    #startBtn:hover { background: #218838; }
+    #startBtn:disabled { background: #999; cursor: not-allowed; }
+    #stopBtn { background: #dc3545; color: white; margin-top: 8px; display: none; }
+    #stopBtn:hover { background: #c82333; }
+    #status { margin-top: 12px; padding: 8px; background: #f8f9fa; border-radius: 4px; font-size: 13px; display: none; }
+    .progress { color: #666; }
+  </style>
+</head>
+<body>
+  <h2>Cap Valoraciones</h2>
+
+  <label>Sheet ID</label>
+  <input type="text" id="sheetId" placeholder="1BxiMVs0XRA5nFMdKvBd...">
+
+  <label>Email (para Idealista)</label>
+  <input type="email" id="email" placeholder="tu@email.com">
+
+  <label style="display:flex;align-items:center;gap:8px;margin-bottom:12px;font-weight:400;cursor:pointer;">
+    <input type="checkbox" id="backgroundMode" style="width:auto;margin:0;">
+    Modo segundo plano <span style="color:#888;font-size:12px;">(sin screenshots)</span>
+  </label>
+
+  <button id="startBtn">Empezar</button>
+  <button id="stopBtn">Parar</button>
+
+  <div id="status"></div>
+
+  <button id="logsBtn" style="background:#6c757d;color:white;margin-top:8px;">Descargar logs</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
