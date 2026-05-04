@@ -5,8 +5,12 @@ var SheetsApi = (function () {
   "use strict";
 
   var SHEETS_BASE_URL = "https://sheets.googleapis.com/v4/spreadsheets";
-  var SHEET_TAB_NAME = "ORIGINAL";
-  var READ_RANGE = "A2:N";
+  var DEFAULT_TAB_NAME = "ORIGINAL";
+
+  async function getTabName() {
+    var data = await chrome.storage.local.get("tabName");
+    return data.tabName || DEFAULT_TAB_NAME;
+  }
   function sanitizeSheetId(sheetId) {
     return sheetId.replace(/\/+$/, "").trim();
   }
@@ -41,7 +45,9 @@ var SheetsApi = (function () {
    */
   async function readPendingRows(sheetId, token) {
     sheetId = sanitizeSheetId(sheetId);
-    var encodedRange = encodeURIComponent(SHEET_TAB_NAME + "!" + READ_RANGE);
+    var tabName = await getTabName();
+    var readRange = "A2:N";
+    var encodedRange = encodeURIComponent(tabName + "!" + readRange);
     var url = SHEETS_BASE_URL + "/" + sheetId + "/values/" + encodedRange;
 
     var response = await fetch(url, {
@@ -82,7 +88,8 @@ var SheetsApi = (function () {
    */
   async function writeValuationResult(sheetId, token, rowIndex, resultData) {
     sheetId = sanitizeSheetId(sheetId);
-    var range = SHEET_TAB_NAME + "!K" + rowIndex + ":N" + rowIndex;
+    var tabName = await getTabName();
+    var range = tabName + "!K" + rowIndex + ":N" + rowIndex;
     var encodedRange = encodeURIComponent(range);
     var url = SHEETS_BASE_URL + "/" + sheetId + "/values/" + encodedRange + "?valueInputOption=USER_ENTERED";
 
