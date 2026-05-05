@@ -95,7 +95,7 @@ var SheetsApi = (function () {
 
     var cellValues;
     if (resultData.error) {
-      cellValues = [["ERROR: " + resultData.error, "", "", "TRUE"]];
+      cellValues = [["ERROR: " + resultData.error, "", resultData.screenshotUrl || "", ""]];
     } else {
       cellValues = [[
         resultData.venta || "N/A",

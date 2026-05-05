@@ -7,8 +7,7 @@ var Orchestrator = (function () {
 
   var IDEALISTA_VALUATOR_BASE_URL = "https://www.idealista.com/es/vendorleads/valuator/property-location/full-address?reference=";
   var VALUATION_TIMEOUT_MS = 45000;
-  var MIN_DELAY_BETWEEN_ROWS_MS = 8000;
-  var MAX_ADDITIONAL_DELAY_MS = 4000;
+  var DEFAULT_DELAY_MINUTES = 3;
 
   var isRunning = false;
   var isStopped = false;
@@ -39,8 +38,14 @@ var Orchestrator = (function () {
     });
   }
 
-  function randomDelayBetweenRows() {
-    return MIN_DELAY_BETWEEN_ROWS_MS + Math.random() * MAX_ADDITIONAL_DELAY_MS;
+  async function getDelayMs() {
+    var data = await chrome.storage.local.get("delayMinutes");
+    var minutes = parseInt(data.delayMinutes, 10);
+    if (isNaN(minutes) || minutes < 1) minutes = DEFAULT_DELAY_MINUTES;
+    // Base delay + random jitter of ±30s to look human
+    var baseMs = minutes * 60 * 1000;
+    var jitter = (Math.random() - 0.5) * 60000;
+    return baseMs + jitter;
   }
 
   /**
@@ -72,6 +77,17 @@ var Orchestrator = (function () {
         }
       }
 
+      function captureAndClose(windowId) {
+        if (isBackgroundMode) {
+          closeTab();
+          return Promise.resolve(null);
+        }
+        return captureTabScreenshot(windowId).then(function (dataUrl) {
+          closeTab();
+          return dataUrl;
+        });
+      }
+
       function resultListener(msg, sender) {
         if (sender.tab?.id !== tabId) return;
 
@@ -80,26 +96,19 @@ var Orchestrator = (function () {
           chrome.runtime.onMessage.removeListener(resultListener);
 
           if (msg.error) {
-            closeTab();
-            reject(new Error(msg.error));
+            captureAndClose(sender.tab.windowId).then(function (screenshot) {
+              var err = new Error(msg.error);
+              err.screenshot = screenshot;
+              reject(err);
+            });
             return;
           }
 
-          if (isBackgroundMode) {
-            closeTab();
-            resolve(msg.data);
-            return;
-          }
-
-          // Screenshot from orchestrator: tab is still open and active
-          captureTabScreenshot(sender.tab.windowId).then(function (dataUrl) {
-            if (dataUrl) {
-              msg.data.screenshot = dataUrl;
+          captureAndClose(sender.tab.windowId).then(function (screenshot) {
+            if (screenshot) {
+              msg.data.screenshot = screenshot;
               Logger.info("Screenshot capturado OK");
-            } else {
-              Logger.warn("Screenshot no disponible");
             }
-            closeTab();
             resolve(msg.data);
           });
         }
@@ -114,8 +123,11 @@ var Orchestrator = (function () {
         timeoutHandle = setTimeout(function () {
           clearTimeout(timeoutHandle);
           chrome.runtime.onMessage.removeListener(resultListener);
-          closeTab();
-          reject(new Error("Timeout (45s)"));
+          captureAndClose(tab.windowId).then(function (screenshot) {
+            var err = new Error("Timeout (45s)");
+            err.screenshot = screenshot;
+            reject(err);
+          });
         }, VALUATION_TIMEOUT_MS);
       });
     });
@@ -223,13 +235,19 @@ var Orchestrator = (function () {
           }
         } catch (err) {
           Logger.error(rowLabel + " FALLO fila " + row.rowIndex + ": " + err.message);
-          await SheetsApi.writeValuationResult(sheetId, token, row.rowIndex, { error: err.message });
+          var errorScreenshotUrl = await uploadScreenshotSafely(token, row.refCatastral || "error", err.screenshot, rowLabel);
+          await SheetsApi.writeValuationResult(sheetId, token, row.rowIndex, {
+            error: err.message,
+            screenshotUrl: errorScreenshotUrl,
+          });
           errorCount++;
         }
 
         var isNotLastRow = !isStopped && currentRowIndex < totalRows;
         if (isNotLastRow) {
-          await sleep(randomDelayBetweenRows());
+          var delayMs = await getDelayMs();
+          Logger.info(rowLabel + " Esperando " + Math.round(delayMs / 1000) + "s hasta la siguiente...");
+          await sleep(delayMs);
         }
       }
 

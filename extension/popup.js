@@ -12,21 +12,23 @@
   var sheetIdInput = document.getElementById("sheetId");
   var tabNameInput = document.getElementById("tabName");
   var emailInput = document.getElementById("email");
+  var delayMinutesInput = document.getElementById("delayMinutes");
   var backgroundModeCheckbox = document.getElementById("backgroundMode");
   var logsButton = document.getElementById("logsBtn");
 
   // ─── Saved Config ───
   function loadSavedConfig() {
-    chrome.storage.local.get(["sheetId", "tabName", "email", "backgroundMode"], function (data) {
+    chrome.storage.local.get(["sheetId", "tabName", "email", "delayMinutes", "backgroundMode"], function (data) {
       if (data.sheetId) sheetIdInput.value = data.sheetId;
       if (data.tabName) tabNameInput.value = data.tabName;
       if (data.email) emailInput.value = data.email;
+      if (data.delayMinutes !== undefined) delayMinutesInput.value = data.delayMinutes;
       if (data.backgroundMode) backgroundModeCheckbox.checked = true;
     });
   }
 
-  function saveConfig(sheetId, tabName, email, backgroundMode) {
-    chrome.storage.local.set({ sheetId: sheetId, tabName: tabName, email: email, backgroundMode: backgroundMode });
+  function saveConfig(sheetId, tabName, email, delayMinutes, backgroundMode) {
+    chrome.storage.local.set({ sheetId: sheetId, tabName: tabName, email: email, delayMinutes: delayMinutes, backgroundMode: backgroundMode });
   }
 
   // ─── UI State ───
@@ -165,7 +167,9 @@
     var inputs = validateInputs();
     if (!inputs) return;
 
-    saveConfig(inputs.sheetId, tabNameInput.value.trim() || "ORIGINAL", inputs.email, backgroundModeCheckbox.checked);
+    var delayVal = parseInt(delayMinutesInput.value, 10);
+    if (isNaN(delayVal) || delayVal < 1) delayVal = 3;
+    saveConfig(inputs.sheetId, tabNameInput.value.trim() || "ORIGINAL", inputs.email, delayVal, backgroundModeCheckbox.checked);
     authenticateAndStart(inputs.sheetId, inputs.email);
   });
 
