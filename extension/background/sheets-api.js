@@ -1,132 +1,146 @@
 // background/sheets-api.js
 // Responsibility: All Google Sheets API interactions (read rows, write results).
 
-var SheetsApi = (function () {
+const SheetsApi = (() => {
   "use strict";
 
-  var SHEETS_BASE_URL = "https://sheets.googleapis.com/v4/spreadsheets";
-  var DEFAULT_TAB_NAME = "ORIGINAL";
+  const SHEETS_BASE_URL = "https://sheets.googleapis.com/v4/spreadsheets";
+  const DEFAULT_TAB_NAME = "ORIGINAL";
 
-  async function getTabName() {
-    var data = await chrome.storage.local.get("tabName");
-    return data.tabName || DEFAULT_TAB_NAME;
-  }
-  function sanitizeSheetId(sheetId) {
-    return sheetId.replace(/\/+$/, "").trim();
-  }
+  // ─── Column Helpers ───
 
-  function buildAuthHeaders(token) {
-    return { Authorization: "Bearer " + token };
-  }
+  const columnLetterToIndex = (letter) => {
+    let index = 0;
+    const upper = letter.toUpperCase();
+    for (let i = 0; i < upper.length; i++) {
+      index = index * 26 + (upper.charCodeAt(i) - 64);
+    }
+    return index - 1;
+  };
 
-  function parseRowData(rawRow) {
+  const indexToColumnLetter = (index) => {
+    let letter = "";
+    let n = index + 1;
+    while (n > 0) {
+      n--;
+      letter = String.fromCharCode(65 + (n % 26)) + letter;
+      n = Math.floor(n / 26);
+    }
+    return letter;
+  };
+
+  const getColumnConfig = async () => {
+    const data = await chrome.storage.local.get(["colRefCatastral", "colResultStart"]);
+    const refCol = (data.colRefCatastral || "G").toUpperCase();
+    const startCol = (data.colResultStart || "K").toUpperCase();
+    const startIdx = columnLetterToIndex(startCol);
     return {
-      tipo: rawRow[0] || "",
-      estado: rawRow[1] || "",
-      calle: rawRow[2] || "",
-      poblacion: rawRow[3] || "",
-      cp: rawRow[4] || "",
-      m2: rawRow[5] || "",
-      refCatastral: rawRow[6] || "",
-      estadoPropiedad: rawRow[8] || "",
-      precio: rawRow[9] || "",
+      refCatastralIndex: columnLetterToIndex(refCol),
+      refCatastralLetter: refCol,
+      maxVentaLetter: startCol,
+      minVentaLetter: indexToColumnLetter(startIdx + 1),
+      screenshotLetter: indexToColumnLetter(startIdx + 2),
+      flagLetter: indexToColumnLetter(startIdx + 3),
+      flagIndex: startIdx + 3,
     };
-  }
+  };
 
-  function isRowAlreadyProcessed(rawRow) {
-    // Column N (index 13) is the "analizado" flag in the current layout (K=Venta, L=Alquiler, M=Screenshot, N=TRUE).
-    var colN = (rawRow[13] || "").toString().toUpperCase();
-    return colN === "TRUE";
-  }
+  // ─── Helpers ───
 
-  /**
-   * Reads pending rows from the ORIGINAL tab.
-   * Returns only rows where column N is NOT "TRUE".
-   */
-  async function readPendingRows(sheetId, token) {
-    sheetId = sanitizeSheetId(sheetId);
-    var tabName = await getTabName();
-    var readRange = "A2:N";
-    var encodedRange = encodeURIComponent(tabName + "!" + readRange);
-    var url = SHEETS_BASE_URL + "/" + sheetId + "/values/" + encodedRange;
+  const getTabName = async () => {
+    const data = await chrome.storage.local.get("tabName");
+    return data.tabName || DEFAULT_TAB_NAME;
+  };
 
-    var response = await fetch(url, {
+  const sanitizeSheetId = (sheetId) => sheetId.replace(/\/+$/, "").trim();
+
+  const buildAuthHeaders = (token) => ({ Authorization: `Bearer ${token}` });
+
+  // ─── Read ───
+
+  const readPendingRows = async (sheetId, token) => {
+    const cleanId = sanitizeSheetId(sheetId);
+    const tabName = await getTabName();
+    const colConfig = await getColumnConfig();
+
+    const lastColIndex = Math.max(colConfig.flagIndex, colConfig.refCatastralIndex);
+    const lastColLetter = indexToColumnLetter(lastColIndex);
+    const readRange = `A2:${lastColLetter}`;
+    const encodedRange = encodeURIComponent(`${tabName}!${readRange}`);
+    const url = `${SHEETS_BASE_URL}/${cleanId}/values/${encodedRange}`;
+
+    Logger.info(`[Sheet] Leyendo rango ${readRange} (ref=${colConfig.refCatastralLetter}, flag=${colConfig.flagLetter})`);
+
+    const response = await fetch(url, {
       headers: buildAuthHeaders(token),
     });
 
     if (!response.ok) {
-      var body = await response.text();
-      throw new Error("Sheets API error " + response.status + ": " + body);
+      const body = await response.text();
+      throw new Error(`Sheets API error ${response.status}: ${body}`);
     }
 
-    var data = await response.json();
-    var rawValues = data.values || [];
-    var pendingRows = [];
+    const data = await response.json();
+    const rawValues = data.values || [];
+    const pendingRows = [];
 
-    for (var i = 0; i < rawValues.length; i++) {
-      var rawRow = rawValues[i];
-      var rowNum = i + 2;
-      var colNValue = (rawRow[13] || "").toString();
+    for (let i = 0; i < rawValues.length; i++) {
+      const rawRow = rawValues[i];
+      const rowNum = i + 2;
+      const flagValue = (rawRow[colConfig.flagIndex] || "").toString().toUpperCase();
 
-      if (isRowAlreadyProcessed(rawRow)) {
-        Logger.info("Fila " + rowNum + ": col N='" + colNValue + "' → SKIP");
+      if (flagValue === "TRUE") {
+        Logger.info(`Fila ${rowNum}: col ${colConfig.flagLetter}='${flagValue}' → SKIP`);
         continue;
       }
 
-      Logger.info("Fila " + rowNum + ": col N='" + colNValue + "' → PENDIENTE");
-      var rowData = parseRowData(rawRow);
-      rowData.rowIndex = rowNum;
-      pendingRows.push(rowData);
+      Logger.info(`Fila ${rowNum}: col ${colConfig.flagLetter}='${rawRow[colConfig.flagIndex]}' → PENDIENTE`);
+      const refCatastral = (rawRow[colConfig.refCatastralIndex] || "").toString().trim();
+      pendingRows.push({ rowIndex: rowNum, refCatastral });
     }
 
     return pendingRows;
-  }
+  };
 
-  /**
-   * Writes valuation results to columns K-N for a given row.
-   * K = Venta, L = Alquiler, M = Screenshot URL, N = TRUE
-   */
-  async function writeValuationResult(sheetId, token, rowIndex, resultData) {
-    sheetId = sanitizeSheetId(sheetId);
-    var tabName = await getTabName();
-    var range = tabName + "!K" + rowIndex + ":N" + rowIndex;
-    var encodedRange = encodeURIComponent(range);
-    var url = SHEETS_BASE_URL + "/" + sheetId + "/values/" + encodedRange + "?valueInputOption=USER_ENTERED";
+  // ─── Write ───
 
-    var cellValues;
-    if (resultData.error) {
-      cellValues = [["ERROR: " + resultData.error, "", resultData.screenshotUrl || "", ""]];
-    } else {
-      cellValues = [[
-        resultData.venta || "N/A",
-        resultData.alquiler || "N/A",
-        resultData.screenshotUrl || "",
-        "TRUE",
-      ]];
-    }
+  const writeValuationResult = async (sheetId, token, rowIndex, resultData) => {
+    const cleanId = sanitizeSheetId(sheetId);
+    const tabName = await getTabName();
+    const colConfig = await getColumnConfig();
 
-    Logger.info("[Sheet] Escribiendo fila " + rowIndex + ": " + JSON.stringify(cellValues[0]).substring(0, 100));
+    const range = `${tabName}!${colConfig.maxVentaLetter}${rowIndex}:${colConfig.flagLetter}${rowIndex}`;
+    const encodedRange = encodeURIComponent(range);
+    const url = `${SHEETS_BASE_URL}/${cleanId}/values/${encodedRange}?valueInputOption=USER_ENTERED`;
 
-    var response = await fetch(url, {
+    const cellValues = resultData.error
+      ? [[`ERROR: ${resultData.error}`, "", resultData.screenshotUrl || "", ""]]
+      : [[
+          resultData.maxVenta ?? "N/A",
+          resultData.minVenta ?? "N/A",
+          resultData.screenshotUrl || "",
+          "TRUE",
+        ]];
+
+    Logger.info(`[Sheet] Escribiendo fila ${rowIndex} en ${colConfig.maxVentaLetter}:${colConfig.flagLetter}: ${JSON.stringify(cellValues[0]).substring(0, 100)}`);
+
+    const response = await fetch(url, {
       method: "PUT",
       headers: {
-        Authorization: "Bearer " + token,
+        Authorization: `Bearer ${token}`,
         "Content-Type": "application/json",
       },
       body: JSON.stringify({ values: cellValues }),
     });
 
     if (!response.ok) {
-      var body = await response.text();
-      Logger.error("[Sheet] Error escribiendo fila " + rowIndex + ": " + response.status + " " + body.substring(0, 200));
-      throw new Error("Sheet write error " + response.status);
+      const body = await response.text();
+      Logger.error(`[Sheet] Error escribiendo fila ${rowIndex}: ${response.status} ${body.substring(0, 200)}`);
+      throw new Error(`Sheet write error ${response.status}`);
     }
 
-    Logger.info("[Sheet] Fila " + rowIndex + " escrita OK");
-  }
-
-  return {
-    readPendingRows: readPendingRows,
-    writeValuationResult: writeValuationResult,
+    Logger.info(`[Sheet] Fila ${rowIndex} escrita OK`);
   };
+
+  return { readPendingRows, writeValuationResult };
 })();

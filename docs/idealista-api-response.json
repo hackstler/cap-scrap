@@ -1,0 +1,91 @@
+{
+  "_description": "Respuesta de la API de Idealista: GET /vendorleads/valuations/{valuationId}?language=es",
+  "_captured_date": "2026-05-08",
+  "_notes": "El body capturado por page-interceptor.js es un string JSON. Al parsearlo se obtiene esta estructura.",
+
+  "headers": {},
+  "body": {
+    "result": "ok",
+    "message": null,
+    "code": "NO_ERROR",
+    "fieldErrors": [],
+    "globalErrors": [],
+    "data": {
+      "orderedAgencies": [260421108, 130156685, 130154577],
+      "previouslyContactedAgencies": [],
+
+      "property": {
+        "simpleAddress": "Santa Genoveva, 20",
+        "municipality": "Madrid",
+        "lastZone": "Ventas, Madrid",
+        "premise": "",
+        "area": "80",
+        "typology": "HOME",
+        "cadastralReference": "5053112VK4755C0001LD",
+        "characteristics": {
+          "bathrooms": 1,
+          "rooms": 2,
+          "pool": false,
+          "lift": false,
+          "pentHouse": false,
+          "duplex": false
+        },
+        "coordinates": {
+          "latitude": "40.42510728150639",
+          "longitude": "-3.649129555514318"
+        }
+      },
+
+      "valuation": {
+        "rent": {
+          "averagePrice": "1320",
+          "maxPrice": "1380",
+          "minPrice": "1200",
+          "alerts": []
+        },
+        "sale": {
+          "averagePrice": "258000",
+          "maxPrice": "272000",
+          "minPrice": "234000",
+          "alerts": []
+        },
+        "valuationMadeBy": "BY_CADASTRAL_REFERENCE",
+        "valuationDate": "08/05/2026"
+      },
+
+      "additionalPropertyLinks": {
+        "valuateAnotherLink": "/valoracion-de-inmuebles/",
+        "moreAtSellInAreaLink": "/venta-viviendas/madrid/ciudad-lineal/ventas/",
+        "moreAtRentInAreaLink": "/alquiler-viviendas/madrid/ciudad-lineal/ventas/"
+      },
+
+      "mortgagesLink": {
+        "valuateAnotherLink": "/valoracion-de-inmuebles/",
+        "mortgagesLink": "/hipotecas/simulador-hipotecas/"
+      },
+
+      "agenciesInAreaLink": "/agencias-inmobiliarias/madrid/ciudad-lineal/ventas/inmobiliarias",
+
+      "privacyPolicyUrl": "https://www.idealista.com/ayuda/articulos/politica-de-privacidad/",
+
+      "operation": {
+        "which": "SNOOPING",
+        "when": null,
+        "role": "SNOOPING"
+      },
+
+      "user": {
+        "name": null,
+        "phone": null,
+        "email": "sergio@hackstler.com",
+        "isBanned": false,
+        "isLimitExceeded": false
+      },
+
+      "markupResponseData": [],
+      "dataLayerEvent": null,
+      "dataLayers": []
+    },
+    "statusCode": "OK"
+  }
+}

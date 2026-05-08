@@ -26,22 +26,30 @@
   <label>Nombre de la pestaña</label>
   <input type="text" id="tabName" placeholder="ORIGINAL">
 
+  <div style="display:flex;gap:12px;">
+    <div style="flex:1;">
+      <label>Col. ref. catastral</label>
+      <input type="text" id="colRefCatastral" placeholder="G" maxlength="2" style="text-transform:uppercase;">
+    </div>
+    <div style="flex:1;">
+      <label>Col. inicio resultados</label>
+      <input type="text" id="colResultStart" placeholder="K" maxlength="2" style="text-transform:uppercase;">
+    </div>
+  </div>
+
   <label>Email (para Idealista)</label>
   <input type="email" id="email" placeholder="tu@email.com">
 
   <label>Espera entre propiedades (minutos)</label>
   <input type="number" id="delayMinutes" value="3" min="1" max="60" step="1" pattern="[0-9]*">
 
-  <label style="display:flex;align-items:center;gap:8px;margin-bottom:12px;font-weight:400;cursor:pointer;">
-    <input type="checkbox" id="backgroundMode" style="width:auto;margin:0;">
-    Modo segundo plano <span style="color:#888;font-size:12px;">(sin screenshots)</span>
-  </label>
 
   <button id="startBtn">Empezar</button>
   <button id="stopBtn">Parar</button>
 
   <div id="status"></div>
 
+  <button id="testTokenBtn" style="background:#007bff;color:white;margin-top:8px;">Test Token Refresh</button>
   <button id="logsBtn" style="background:#6c757d;color:white;margin-top:8px;">Descargar logs</button>
 
   <script src="popup.js"></script>
